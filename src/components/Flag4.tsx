@@ -1,20 +1,30 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import useIsClient from "../hooks/isClientHook";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { normalizeString } from "@/lib/utils";
+import useIsClient from "@/hooks/isClientHook";
 
-function FlagGame({ flags, language }: FlagGameProps) {
+interface Flag4Props {
+  flags: {
+    name: string;
+    code2l: string;
+    names: { [key: string]: { name: string; name_official: string } };
+  }[];
+  language: string;
+}
+
+function Flag4({ flags, language }: Flag4Props) {
   const [currentFlagIndex, setCurrentFlagIndex] = useState<number>(() =>
     Math.floor(Math.random() * flags.length)
   );
   const [shownFlags, setShownFlags] = useState<number[]>([currentFlagIndex]);
-  const [userGuess, setUserGuess] = useState<string>("");
+  const [options, setOptions] = useState<string[]>([]);
   const [lives, setLives] = useState<number>(3);
   const [score, setScore] = useState<number>(0);
 
   const isClient = useIsClient();
+
+  useEffect(() => {
+    generateOptions();
+  }, [currentFlagIndex]);
 
   const getRandomFlagIndex = () => {
     let randomIndex;
@@ -24,12 +34,41 @@ function FlagGame({ flags, language }: FlagGameProps) {
     return randomIndex;
   };
 
-  const handleGuess = () => {
+  const generateOptions = () => {
     const correctName =
       language === "en"
         ? flags[currentFlagIndex].name
         : flags[currentFlagIndex].names[language]?.name;
-    if (normalizeString(userGuess) === normalizeString(correctName || "")) {
+    const optionsSet = new Set<string>();
+    optionsSet.add(correctName || "");
+
+    while (optionsSet.size < 4) {
+      const randomIndex = Math.floor(Math.random() * flags.length);
+      const randomName =
+        language === "en"
+          ? flags[randomIndex].name
+          : flags[randomIndex].names[language]?.name;
+      optionsSet.add(randomName || "");
+    }
+
+    const optionsArray = Array.from(optionsSet);
+    setOptions(shuffleArray(optionsArray));
+  };
+
+  const shuffleArray = (array: string[]) => {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  };
+
+  const handleGuess = (guess: string) => {
+    const correctName =
+      language === "en"
+        ? flags[currentFlagIndex].name
+        : flags[currentFlagIndex].names[language]?.name;
+    if (guess === correctName || "") {
       setScore(score + 1);
       const newFlagIndex = getRandomFlagIndex();
       setCurrentFlagIndex(newFlagIndex);
@@ -45,7 +84,6 @@ function FlagGame({ flags, language }: FlagGameProps) {
         setShownFlags([newFlagIndex]);
       }
     }
-    setUserGuess("");
   };
 
   return (
@@ -59,16 +97,17 @@ function FlagGame({ flags, language }: FlagGameProps) {
               fill={true}
             />
           </div>
-          <Input
-            type="text"
-            value={userGuess}
-            onChange={(e) => setUserGuess(e.target.value)}
-            className="mb-4"
-            placeholder="Enter country name"
-          />
-          <Button onClick={handleGuess} type="submit" className="bg-blue-500">
-            Guess
-          </Button>
+          <div className="grid grid-cols-2 gap-4 mb-4">
+            {options.map((option, index) => (
+              <button
+                key={index}
+                onClick={() => handleGuess(option)}
+                className="bg-blue-500 text-white p-2 rounded-lg shadow-md hover:bg-blue-600 transition duration-300"
+              >
+                {option}
+              </button>
+            ))}
+          </div>
           <div className="mt-4 flex space-x-4">
             <div className="flex items-center space-x-2">
               <span className="text-lg font-semibold">Lives:</span>
@@ -85,4 +124,4 @@ function FlagGame({ flags, language }: FlagGameProps) {
   );
 }
 
-export default FlagGame;
+export default Flag4;
