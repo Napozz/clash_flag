@@ -39,45 +39,6 @@
     }
   },
   {
-    "id": "199",
-    "enabled": false,
-    "code3l": "ALA",
-    "code2l": "AX",
-    "name": "Åland Islands",
-    "name_official": "Åland Islands",
-    "center": {
-      "latitude": "60.25403213",
-      "longitude": "20.35918350",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر أولاند",
-        "name_official": "جزر أولاند"
-      },
-      "es": {
-        "name": "Islas Åland",
-        "name_official": "Islas Åland"
-      },
-      "fr": {
-        "name": "Îles Åland",
-        "name_official": "Îles Åland"
-      },
-      "it": {
-        "name": "Isole Åland",
-        "name_official": "Isole Åland"
-      },
-      "ru": {
-        "name": "Аландские острова",
-        "name_official": "Аландские острова"
-      },
-      "zh": {
-        "name": "奥兰群岛",
-        "name_official": "奥兰群岛"
-      }
-    }
-  },
-  {
     "id": "2",
     "enabled": false,
     "code3l": "ALB",
@@ -156,45 +117,6 @@
     }
   },
   {
-    "id": "197",
-    "enabled": false,
-    "code3l": "ASM",
-    "code2l": "AS",
-    "name": "American Samoa",
-    "name_official": "The United States Territory of American Samoa",
-    "center": {
-      "latitude": "-14.30634641",
-      "longitude": "-170.69501750",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "ساموا الأمريكية",
-        "name_official": "الولايات المتحدة الأمريكية إقليم ساموا الأمريكية "
-      },
-      "es": {
-        "name": "Samoa Americana",
-        "name_official": "el Territorio de Samoa Americana de los Estados Unidos"
-      },
-      "fr": {
-        "name": "Samoa américaines",
-        "name_official": "le Territoire des Samoa américaines des États-Unis"
-      },
-      "it": {
-        "name": "Samoa Americane",
-        "name_official": "il Territorio di Samoa Americane degli Stati Uniti"
-      },
-      "ru": {
-        "name": "Американское Самоа",
-        "name_official": "Территория Американское Самоа Соединенных Штатов"
-      },
-      "zh": {
-        "name": "美属萨摩亚",
-        "name_official": "美属萨摩亚领地"
-      }
-    }
-  },
-  {
     "id": "4",
     "enabled": false,
     "code3l": "AND",
@@ -269,84 +191,6 @@
       "zh": {
         "name": "安哥拉",
         "name_official": "安哥拉共和国"
-      }
-    }
-  },
-  {
-    "id": "195",
-    "enabled": false,
-    "code3l": "AIA",
-    "code2l": "AI",
-    "name": "Anguilla",
-    "name_official": "Anguilla",
-    "center": {
-      "latitude": "18.22053521",
-      "longitude": "-63.06861300",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "أنغويلا",
-        "name_official": "أنغويلا"
-      },
-      "es": {
-        "name": "Anguila",
-        "name_official": "Anguila"
-      },
-      "fr": {
-        "name": "Anguilla",
-        "name_official": "Anguilla"
-      },
-      "it": {
-        "name": "Anguilla",
-        "name_official": "Anguilla"
-      },
-      "ru": {
-        "name": "Ангилья",
-        "name_official": "Ангилья"
-      },
-      "zh": {
-        "name": "安圭拉",
-        "name_official": "安圭拉"
-      }
-    }
-  },
-  {
-    "id": "196",
-    "enabled": false,
-    "code3l": "ATA",
-    "code2l": "AQ",
-    "name": "Antarctica",
-    "name_official": "Antarctica",
-    "center": {
-      "latitude": "-45.13806295",
-      "longitude": "10.48095703",
-      "zoom": "2"
-    },
-    "names": {
-      "ar": {
-        "name": "القارة القطبية الجنوبية",
-        "name_official": "القارة القطبية الجنوبية"
-      },
-      "es": {
-        "name": "Antártida",
-        "name_official": "Antártida"
-      },
-      "fr": {
-        "name": "Antarctique",
-        "name_official": "Antarctique"
-      },
-      "it": {
-        "name": "Antartide",
-        "name_official": "Antartide"
-      },
-      "ru": {
-        "name": "Антарктика",
-        "name_official": "Антарктика"
-      },
-      "zh": {
-        "name": "南极洲",
-        "name_official": "南极洲"
       }
     }
   },
@@ -464,45 +308,6 @@
       "zh": {
         "name": "亚美尼亚",
         "name_official": "亚美尼亚共和国"
-      }
-    }
-  },
-  {
-    "id": "198",
-    "enabled": false,
-    "code3l": "ABW",
-    "code2l": "AW",
-    "name": "Aruba",
-    "name_official": "Aruba of the Kingdom of the Netherlands",
-    "center": {
-      "latitude": "12.52109661",
-      "longitude": "-69.96833800",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "أروبا",
-        "name_official": "أروبا مملكة هولندا "
-      },
-      "es": {
-        "name": "Aruba",
-        "name_official": "Aruba del Reino de los Países Bajos"
-      },
-      "fr": {
-        "name": "Aruba",
-        "name_official": "Aruba du Royaume des Pays-Bas"
-      },
-      "it": {
-        "name": "Aruba",
-        "name_official": "Aruba del Regno dei Paesi Bassi"
-      },
-      "ru": {
-        "name": "Аруба",
-        "name_official": "Аруба Королевства Нидерландов"
-      },
-      "zh": {
-        "name": "阿鲁巴",
-        "name_official": "阿鲁巴荷兰王国"
       }
     }
   },
@@ -936,45 +741,6 @@
     }
   },
   {
-    "id": "201",
-    "enabled": false,
-    "code3l": "BMU",
-    "code2l": "BM",
-    "name": "Bermuda",
-    "name_official": "Bermudas",
-    "center": {
-      "latitude": "32.31995785",
-      "longitude": "-64.76182765",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "برمودا",
-        "name_official": "برمودا"
-      },
-      "es": {
-        "name": "Bermudas",
-        "name_official": "Bermudas"
-      },
-      "fr": {
-        "name": "Bermudes",
-        "name_official": "Bermudes"
-      },
-      "it": {
-        "name": "Bermuda",
-        "name_official": "Bermuda"
-      },
-      "ru": {
-        "name": "Бермудские острова",
-        "name_official": "Бермудские острова"
-      },
-      "zh": {
-        "name": "百慕大",
-        "name_official": "百慕大"
-      }
-    }
-  },
-  {
     "id": "20",
     "enabled": false,
     "code3l": "BTN",
@@ -1010,84 +776,6 @@
       "zh": {
         "name": "不 丹",
         "name_official": "不丹王国"
-      }
-    }
-  },
-  {
-    "id": "182",
-    "enabled": false,
-    "code3l": "BOL",
-    "code2l": "BO",
-    "name": "Bolivia (Plurinational State of)",
-    "name_official": "Plurinational State of Bolivia",
-    "center": {
-      "latitude": "-16.74518128",
-      "longitude": "-65.19265691",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "بوليفيا - دولة - المتعددة القوميات ",
-        "name_official": "دولة بوليفيا المتعددة القوميات "
-      },
-      "es": {
-        "name": "Bolivia (Estado Plurinacional de)",
-        "name_official": "Estado Plurinacional de Bolivia"
-      },
-      "fr": {
-        "name": "Bolivie (État plurinational de)",
-        "name_official": "l'État plurinational de Bolivie"
-      },
-      "it": {
-        "name": "Bolivia (Stato plurinazionale della)",
-        "name_official": "Stato plurinazionale della Bolivia"
-      },
-      "ru": {
-        "name": "Боливия (Многонациональное Государство)",
-        "name_official": "Многонациональное Государство Боливия"
-      },
-      "zh": {
-        "name": "玻利维亚（多民族国）",
-        "name_official": "玻利维亚多民族国"
-      }
-    }
-  },
-  {
-    "id": "202",
-    "enabled": false,
-    "code3l": "BES",
-    "code2l": "BQ",
-    "name": "Bonaire, Saint Eustatius And Saba",
-    "name_official": "Bonaire, Saint Eustatius and Saba",
-    "center": {
-      "latitude": "12.17229702",
-      "longitude": "-68.28831170",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "بونير وسانت يوستاتيوس وصبا",
-        "name_official": "بونير وسانت يوستاتيوس وصبا"
-      },
-      "es": {
-        "name": "Bonaire, San Eustaquio y Saba",
-        "name_official": "Bonaire, San Eustaquio y Saba"
-      },
-      "fr": {
-        "name": "Bonaire, Saint-Eustache et Saba",
-        "name_official": "Bonaire, Saint-Eustache et Saba"
-      },
-      "it": {
-        "name": "Bonaire, Sant'Eustachio e Saba",
-        "name_official": "Bonaire, Sant'Eustachio e Saba"
-      },
-      "ru": {
-        "name": "Бонайре, Сант-Эстатиус и Саба",
-        "name_official": "Бонайре, Сант-Эстатиус и Саба"
-      },
-      "zh": {
-        "name": "博奈尔，圣尤斯特歇斯和萨巴",
-        "name_official": "博奈尔，圣尤斯特歇斯和萨巴"
       }
     }
   },
@@ -1170,45 +858,6 @@
     }
   },
   {
-    "id": "203",
-    "enabled": false,
-    "code3l": "BVT",
-    "code2l": "BV",
-    "name": "Bouvet Island",
-    "name_official": "Bouvet Island",
-    "center": {
-      "latitude": "-54.42316906",
-      "longitude": "3.41319600",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "جزيرة بوفيه",
-        "name_official": "جزيرة بوفيه"
-      },
-      "es": {
-        "name": "Isla Bouvet",
-        "name_official": "Isla Bouvet"
-      },
-      "fr": {
-        "name": "Île Bouvet",
-        "name_official": "Île Bouvet"
-      },
-      "it": {
-        "name": "Isola Bouvet",
-        "name_official": "Isola Bouvet"
-      },
-      "ru": {
-        "name": "Остров Буве",
-        "name_official": "Остров Буве"
-      },
-      "zh": {
-        "name": "布韦岛",
-        "name_official": "布韦岛"
-      }
-    }
-  },
-  {
     "id": "23",
     "enabled": false,
     "code3l": "BRA",
@@ -1244,45 +893,6 @@
       "zh": {
         "name": "巴 西",
         "name_official": "巴西联邦共和国"
-      }
-    }
-  },
-  {
-    "id": "220",
-    "enabled": false,
-    "code3l": "IOT",
-    "code2l": "IO",
-    "name": "British Indian Ocean Territory",
-    "name_official": "The British Indian Ocean Territory",
-    "center": {
-      "latitude": "-7.33461519",
-      "longitude": "72.42425280",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "إقليم المحيط الهندي البريطاني",
-        "name_official": "إقليم المحيط الهندي البريطاني"
-      },
-      "es": {
-        "name": "Territorio Británico del Océano Índico",
-        "name_official": "Territorio Británico del Océano Índico"
-      },
-      "fr": {
-        "name": "Territoire britannique de l'océan Indien",
-        "name_official": "Territoire britannique de l'océan Indien"
-      },
-      "it": {
-        "name": "Territorio Britannico dell'Oceano Indiano",
-        "name_official": "Territorio Britannico dell'Oceano Indiano"
-      },
-      "ru": {
-        "name": "Британская территория в Индийском океане",
-        "name_official": "Британская территория в Индийском океане"
-      },
-      "zh": {
-        "name": "英属印度洋领地",
-        "name_official": "英属印度洋领地"
       }
     }
   },
@@ -1443,45 +1053,6 @@
     }
   },
   {
-    "id": "31",
-    "enabled": false,
-    "code3l": "CPV",
-    "code2l": "CV",
-    "name": "Cabo Verde",
-    "name_official": "Republic of Cabo Verde",
-    "center": {
-      "latitude": "15.11988711",
-      "longitude": "-23.60517010",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "كابو فيردي ",
-        "name_official": "جمهورية كابو فيردي "
-      },
-      "es": {
-        "name": "Cabo Verde",
-        "name_official": "la República de Cabo Verde"
-      },
-      "fr": {
-        "name": "Cabo Verde",
-        "name_official": "la République de Cabo Verde"
-      },
-      "it": {
-        "name": "Cabo Verde",
-        "name_official": "Repubblica del Cabo Verde"
-      },
-      "ru": {
-        "name": "Кабо-Верде",
-        "name_official": "Республика Кабо-Верде"
-      },
-      "zh": {
-        "name": "佛得角",
-        "name_official": "佛得角共和国"
-      }
-    }
-  },
-  {
     "id": "28",
     "enabled": false,
     "code3l": "KHM",
@@ -1599,41 +1170,41 @@
     }
   },
   {
-    "id": "222",
+    "id": "31",
     "enabled": false,
-    "code3l": "CYM",
-    "code2l": "KY",
-    "name": "Cayman Islands",
-    "name_official": "The Cayman Islands",
+    "code3l": "CPV",
+    "code2l": "CV",
+    "name": "Cabo Verde",
+    "name_official": "Republic of Cabo Verde",
     "center": {
-      "latitude": "19.31322102",
-      "longitude": "-81.25459800",
-      "zoom": "11"
+      "latitude": "15.11988711",
+      "longitude": "-23.60517010",
+      "zoom": "10"
     },
     "names": {
       "ar": {
-        "name": "جزر كايمان",
-        "name_official": "جزر كايمان"
+        "name": "كابو فيردي ",
+        "name_official": "جمهورية كابو فيردي "
       },
       "es": {
-        "name": "Islas Caimán",
-        "name_official": "Islas Caimán"
+        "name": "Cabo Verde",
+        "name_official": "la República de Cabo Verde"
       },
       "fr": {
-        "name": "Îles Caïmans",
-        "name_official": "Îles Caïmans"
+        "name": "Cabo Verde",
+        "name_official": "la République de Cabo Verde"
       },
       "it": {
-        "name": "Isole Cayman",
-        "name_official": "Isole Cayman"
+        "name": "Cabo Verde",
+        "name_official": "Repubblica del Cabo Verde"
       },
       "ru": {
-        "name": "Каймановы острова",
-        "name_official": "Каймановы острова"
+        "name": "Кабо-Верде",
+        "name_official": "Республика Кабо-Верде"
       },
       "zh": {
-        "name": "开曼群岛",
-        "name_official": "开曼群岛"
+        "name": "佛得角",
+        "name_official": "佛得角共和国"
       }
     }
   },
@@ -1794,84 +1365,6 @@
     }
   },
   {
-    "id": "206",
-    "enabled": false,
-    "code3l": "CXR",
-    "code2l": "CX",
-    "name": "Christmas Island",
-    "name_official": "Territory of Christmas Island",
-    "center": {
-      "latitude": "-10.49170619",
-      "longitude": "105.68083796",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "جزيرة كريسماس",
-        "name_official": "إقليم جزيرة كريسماس"
-      },
-      "es": {
-        "name": "Isla de Navidad",
-        "name_official": "Territorio de la Isla de Navidad"
-      },
-      "fr": {
-        "name": "Île Christmas",
-        "name_official": "Territoire de l'île Christmas"
-      },
-      "it": {
-        "name": "Isola di Natale",
-        "name_official": "Territorio dell'Isola di Natale"
-      },
-      "ru": {
-        "name": "Остров Рождества",
-        "name_official": "Территория острова Рождества"
-      },
-      "zh": {
-        "name": "圣诞岛",
-        "name_official": "圣诞岛领地"
-      }
-    }
-  },
-  {
-    "id": "204",
-    "enabled": false,
-    "code3l": "CCK",
-    "code2l": "CC",
-    "name": "Cocos (Keeling) Islands",
-    "name_official": "Territory of Cocos (Keeling) Islands",
-    "center": {
-      "latitude": "-12.12890685",
-      "longitude": "96.84689104",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر كوكوس (كيلينغ)",
-        "name_official": "إقليم جزر كوكوس (كيلينغ)"
-      },
-      "es": {
-        "name": "Islas Cocos (Keeling)",
-        "name_official": "Territorio de las Islas Cocos (Keeling)"
-      },
-      "fr": {
-        "name": "Îles Cocos (Keeling)",
-        "name_official": "Territoire des îles Cocos (Keeling)"
-      },
-      "it": {
-        "name": "Isole Cocos (Keeling)",
-        "name_official": "Territorio delle Isole Cocos (Keeling)"
-      },
-      "ru": {
-        "name": "Кокосовые (Килинг) острова",
-        "name_official": "Территория Кокосовых (Килинг) островов"
-      },
-      "zh": {
-        "name": "科科斯（基林）群岛",
-        "name_official": "科科斯（基林）群岛领地"
-      }
-    }
-  },
-  {
     "id": "36",
     "enabled": false,
     "code3l": "COL",
@@ -1989,45 +1482,6 @@
     }
   },
   {
-    "id": "181",
-    "enabled": false,
-    "code3l": "COK",
-    "code2l": "CK",
-    "name": "Cook Islands",
-    "name_official": "Cook Islands",
-    "center": {
-      "latitude": "-21.23673066",
-      "longitude": "-159.77766900",
-      "zoom": "13"
-    },
-    "names": {
-      "ar": {
-        "name": "كوك جزر ",
-        "name_official": "كوك جزر "
-      },
-      "es": {
-        "name": "Islas Cook",
-        "name_official": "las Islas Cook"
-      },
-      "fr": {
-        "name": "Îles Cook",
-        "name_official": "les Îles Cook"
-      },
-      "it": {
-        "name": "Isole Cook",
-        "name_official": "Isole Cook"
-      },
-      "ru": {
-        "name": "Острова Кука",
-        "name_official": "Острова Кука"
-      },
-      "zh": {
-        "name": "库克群岛",
-        "name_official": "库克群岛"
-      }
-    }
-  },
-  {
     "id": "39",
     "enabled": false,
     "code3l": "CRI",
@@ -2063,45 +1517,6 @@
       "zh": {
         "name": "哥斯达黎加",
         "name_official": "哥斯达黎加共和国"
-      }
-    }
-  },
-  {
-    "id": "44",
-    "enabled": false,
-    "code3l": "CIV",
-    "code2l": "CI",
-    "name": "Côte d'Ivoire",
-    "name_official": "Republic of Côte d'Ivoire",
-    "center": {
-      "latitude": "7.59684148",
-      "longitude": "-5.49214636",
-      "zoom": "7"
-    },
-    "names": {
-      "ar": {
-        "name": "ديفوار كوت ",
-        "name_official": "ديفوار كوت جمهورية "
-      },
-      "es": {
-        "name": "Côte d'Ivoire",
-        "name_official": "la República de Côte d'Ivoire"
-      },
-      "fr": {
-        "name": "Côte d'Ivoire",
-        "name_official": "la République de Côte d'Ivoire"
-      },
-      "it": {
-        "name": "Côte d`Ivoire",
-        "name_official": "Repubblica della Côte d'Ivoire"
-      },
-      "ru": {
-        "name": "Кот-д`Ивуар",
-        "name_official": "Республика Кот-д`Ивуар"
-      },
-      "zh": {
-        "name": "科特迪瓦",
-        "name_official": "科特迪瓦共和国"
       }
     }
   },
@@ -2184,45 +1599,6 @@
     }
   },
   {
-    "id": "205",
-    "enabled": false,
-    "code3l": "CUW",
-    "code2l": "CW",
-    "name": "Curaçao",
-    "name_official": "Curaçao",
-    "center": {
-      "latitude": "12.20710309",
-      "longitude": "-69.02160369",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "كوراساو",
-        "name_official": "كوراساو"
-      },
-      "es": {
-        "name": "Curazao",
-        "name_official": "Curazao"
-      },
-      "fr": {
-        "name": "Curaçao",
-        "name_official": "Curaçao"
-      },
-      "it": {
-        "name": "Curaçao",
-        "name_official": "Curaçao"
-      },
-      "ru": {
-        "name": "Кюрасао",
-        "name_official": "Кюрасао"
-      },
-      "zh": {
-        "name": "库拉索",
-        "name_official": "库拉索"
-      }
-    }
-  },
-  {
     "id": "42",
     "enabled": false,
     "code3l": "CYP",
@@ -2301,80 +1677,41 @@
     }
   },
   {
-    "id": "188",
+    "id": "44",
     "enabled": false,
-    "code3l": "PRK",
-    "code2l": "KP",
-    "name": "Democratic People's Republic of Korea",
-    "name_official": "Democratic People's Republic of Korea",
+    "code3l": "CIV",
+    "code2l": "CI",
+    "name": "Côte d'Ivoire",
+    "name_official": "Republic of Côte d'Ivoire",
     "center": {
-      "latitude": "40.00785500",
-      "longitude": "127.48812834",
-      "zoom": "6"
+      "latitude": "7.59684148",
+      "longitude": "-5.49214636",
+      "zoom": "7"
     },
     "names": {
       "ar": {
-        "name": "الديمقراطية الشعبية كوريا جمهورية ",
-        "name_official": "الديمقراطية الشعبية كوريا جمهورية "
+        "name": "ديفوار كوت ",
+        "name_official": "ديفوار كوت جمهورية "
       },
       "es": {
-        "name": "República Popular Democrática de Corea",
-        "name_official": "la República Popular Democrática de Corea"
+        "name": "Côte d'Ivoire",
+        "name_official": "la República de Côte d'Ivoire"
       },
       "fr": {
-        "name": "République populaire démocratique de Corée",
-        "name_official": "la République populaire démocratique de Corée"
+        "name": "Côte d'Ivoire",
+        "name_official": "la République de Côte d'Ivoire"
       },
       "it": {
-        "name": "Repubblica popolare democratica di Corea",
-        "name_official": "Repubblica popolare democratica di Corea"
+        "name": "Côte d`Ivoire",
+        "name_official": "Repubblica della Côte d'Ivoire"
       },
       "ru": {
-        "name": "Корейская Народно-Демократическая Республика",
-        "name_official": "Корейская Народно-Демократическая Республика"
+        "name": "Кот-д`Ивуар",
+        "name_official": "Республика Кот-д`Ивуар"
       },
       "zh": {
-        "name": "朝鲜民主主义人民共和国",
-        "name_official": "朝鲜民主主义人民共和国"
-      }
-    }
-  },
-  {
-    "id": "183",
-    "enabled": false,
-    "code3l": "COD",
-    "code2l": "CD",
-    "name": "Democratic Republic of the Congo",
-    "name_official": "Democratic Republic of Congo",
-    "center": {
-      "latitude": "-4.05373938",
-      "longitude": "23.01110741",
-      "zoom": "5"
-    },
-    "names": {
-      "ar": {
-        "name": "الديمقراطية الكونغو جمهورية ",
-        "name_official": "الديمقراطية الكونغو جمهورية "
-      },
-      "es": {
-        "name": "República Democrática del Congo",
-        "name_official": "la República Democrática del Congo"
-      },
-      "fr": {
-        "name": "République démocratique du Congo",
-        "name_official": "la République démocratique du Congo"
-      },
-      "it": {
-        "name": "Repubblica democratica del Congo",
-        "name_official": "Repubblica democratica del Congo"
-      },
-      "ru": {
-        "name": "Демократическая Республика Конго",
-        "name_official": "Демократическая Республика Конго"
-      },
-      "zh": {
-        "name": "刚果民主共和国",
-        "name_official": "刚果民主共和国"
+        "name": "科特迪瓦",
+        "name_official": "科特迪瓦共和国"
       }
     }
   },
@@ -2769,45 +2106,6 @@
     }
   },
   {
-    "id": "157",
-    "enabled": false,
-    "code3l": "SWZ",
-    "code2l": "SZ",
-    "name": "Eswatini",
-    "name_official": "Kingdom of Eswatini",
-    "center": {
-      "latitude": "-26.53892570",
-      "longitude": "31.47960891",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "إسواتيني",
-        "name_official": "مملكة إسواتيني"
-      },
-      "es": {
-        "name": "Eswatini",
-        "name_official": "el Reino de Eswatini"
-      },
-      "fr": {
-        "name": "Eswatini (l')",
-        "name_official": "le Royaume d’Eswatini"
-      },
-      "it": {
-        "name": "Eswatini",
-        "name_official": "il Regno di Eswatini"
-      },
-      "ru": {
-        "name": "Эсватини",
-        "name_official": "Королевство Эсватини"
-      },
-      "zh": {
-        "name": "斯威士兰",
-        "name_official": "斯威士兰王国"
-      }
-    }
-  },
-  {
     "id": "55",
     "enabled": false,
     "code3l": "ETH",
@@ -2843,123 +2141,6 @@
       "zh": {
         "name": "埃塞俄比亚",
         "name_official": "埃塞俄比亚联邦民主共和国"
-      }
-    }
-  },
-  {
-    "id": "184",
-    "enabled": false,
-    "code3l": "EUR",
-    "code2l": "EU",
-    "name": "European Union",
-    "name_official": "European Union",
-    "center": {
-      "latitude": "48.76380654",
-      "longitude": "14.26843140",
-      "zoom": "3"
-    },
-    "names": {
-      "ar": {
-        "name": "عضو منظمة - الأوروبي الإتحاد ",
-        "name_official": "عضو منظمة - الأوروبي الإتحاد "
-      },
-      "es": {
-        "name": "Unión Europea (Organización Miembro)",
-        "name_official": "Unión Europea (Organización Miembro)"
-      },
-      "fr": {
-        "name": "Union européenne (Organisation membre)",
-        "name_official": "l'Union européenne (Organisation membre)"
-      },
-      "it": {
-        "name": "Unione europea (Organizzazione membro)",
-        "name_official": "Unione europea (Organizzazione membro)"
-      },
-      "ru": {
-        "name": "Европейский союз (организация-член)",
-        "name_official": "Европейский союз (организация-член)"
-      },
-      "zh": {
-        "name": "欧洲联盟 （成员组织）",
-        "name_official": "欧洲联盟（成员组织）"
-      }
-    }
-  },
-  {
-    "id": "208",
-    "enabled": false,
-    "code3l": "FLK",
-    "code2l": "FK",
-    "name": "Falkland Islands (Malvinas)",
-    "name_official": "Falkland Islands",
-    "center": {
-      "latitude": "-51.78838251",
-      "longitude": "-59.52361100",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر فوكلاند (مالفيناس)",
-        "name_official": "جزر فوكلاند"
-      },
-      "es": {
-        "name": "Islas Malvinas (Falkland Islands)",
-        "name_official": "las Islas Malvinas"
-      },
-      "fr": {
-        "name": "Îles Malouines (Falkland Islands)",
-        "name_official": "les Îles Malouines"
-      },
-      "it": {
-        "name": "Isole Falkland (Malvine)",
-        "name_official": "Isole Falkland"
-      },
-      "ru": {
-        "name": "Фолклендские острова (Мальвинские острова)",
-        "name_official": "Фолклендские острова"
-      },
-      "zh": {
-        "name": "福克兰群岛（马尔维纳斯群岛）",
-        "name_official": "福克兰群岛"
-      }
-    }
-  },
-  {
-    "id": "209",
-    "enabled": false,
-    "code3l": "FRO",
-    "code2l": "FO",
-    "name": "Faroe Islands (Associate Member)",
-    "name_official": "Faroe Islands",
-    "center": {
-      "latitude": "61.88590482",
-      "longitude": "-6.91180400",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر فيرويه ",
-        "name_official": "جزر فيرويه "
-      },
-      "es": {
-        "name": "Islas Feroe (Miembro Asociado)",
-        "name_official": "las Islas Feroe"
-      },
-      "fr": {
-        "name": "Îles Féroé (Membre associé)",
-        "name_official": "les Îles Féroé"
-      },
-      "it": {
-        "name": "Isole Faer øer",
-        "name_official": "Isole Faer øer"
-      },
-      "ru": {
-        "name": "Фарерские Острова (ассоциированный член)",
-        "name_official": "Фарерские Острова"
-      },
-      "zh": {
-        "name": "法罗群岛 (准成员)",
-        "name_official": "法罗群岛"
       }
     }
   },
@@ -3077,123 +2258,6 @@
       "zh": {
         "name": "法  国",
         "name_official": "法兰西共和国"
-      }
-    }
-  },
-  {
-    "id": "210",
-    "enabled": false,
-    "code3l": "GUF",
-    "code2l": "GF",
-    "name": "French Guiana",
-    "name_official": "French Guiana",
-    "center": {
-      "latitude": "4.01114381",
-      "longitude": "-52.97746057",
-      "zoom": "7"
-    },
-    "names": {
-      "ar": {
-        "name": "غيانا الفرنسية",
-        "name_official": "غيانا الفرنسية"
-      },
-      "es": {
-        "name": "Guayana Francesa",
-        "name_official": "la Guayana Francesa"
-      },
-      "fr": {
-        "name": "Guyane française",
-        "name_official": "la Guyane française"
-      },
-      "it": {
-        "name": "Guyana francese",
-        "name_official": "Guyana francese"
-      },
-      "ru": {
-        "name": "Французская Гвиана",
-        "name_official": "Французская Гвиана"
-      },
-      "zh": {
-        "name": "法属圭亚那",
-        "name_official": "法属圭亚那"
-      }
-    }
-  },
-  {
-    "id": "230",
-    "enabled": false,
-    "code3l": "PYF",
-    "code2l": "PF",
-    "name": "French Polynesia",
-    "name_official": "Territory of French Polynesia",
-    "center": {
-      "latitude": "-17.66243898",
-      "longitude": "-149.40683900",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "بولينيزيا الفرنسية",
-        "name_official": "بولينيزيا الفرنسية"
-      },
-      "es": {
-        "name": "Polinesia Francesa",
-        "name_official": "Territorio de la Polinesia Francesa"
-      },
-      "fr": {
-        "name": "Polynésie française",
-        "name_official": "Territoire de la Polynésie française"
-      },
-      "it": {
-        "name": "Polinesia francese",
-        "name_official": "Territorio della Polinesia francese"
-      },
-      "ru": {
-        "name": "Французская Полинезия",
-        "name_official": "Территория Французской Полинезии"
-      },
-      "zh": {
-        "name": "法属波利尼西亚",
-        "name_official": "法属波利尼西亚"
-      }
-    }
-  },
-  {
-    "id": "240",
-    "enabled": false,
-    "code3l": "ATF",
-    "code2l": "TF",
-    "name": "French Southern and Antarctic Lands",
-    "name_official": "Territory of the French Southern and Antarctic Lands",
-    "center": {
-      "latitude": "-49.27235903",
-      "longitude": "69.34856300",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "الأراضي الجنوبية الفرنسية والأراضي القطبية الفرنسية",
-        "name_official": "الأراضي الجنوبية الفرنسية والأراضي القطبية الفرنسية"
-      },
-      "es": {
-        "name": "Tierras Australes y Antárticas Francesas",
-        "name_official": "Territorio de las Tierras Australes y Antárticas Francesas"
-      },
-      "fr": {
-        "name": "Terres australes et antarctiques françaises",
-        "name_official": "Territoire des Terres australes et antarctiques françaises"
-      },
-      "it": {
-        "name": "Terre australi e antartiche francesi",
-        "name_official": "Territorio delle Terre australi e antartiche francesi"
-      },
-      "ru": {
-        "name": "Французские Южные и Антарктические земли",
-        "name_official": "Территория Французских Южных и Антарктических земель"
-      },
-      "zh": {
-        "name": "法属南部和南极领地",
-        "name_official": "法属南部和南极领地"
       }
     }
   },
@@ -3393,45 +2457,6 @@
     }
   },
   {
-    "id": "212",
-    "enabled": false,
-    "code3l": "GIB",
-    "code2l": "GI",
-    "name": "Gibraltar",
-    "name_official": "Gibraltar",
-    "center": {
-      "latitude": "36.14864641",
-      "longitude": "-5.34404779",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "جبل طارق",
-        "name_official": "جبل طارق"
-      },
-      "es": {
-        "name": "Gibraltar",
-        "name_official": "Gibraltar"
-      },
-      "fr": {
-        "name": "Gibraltar",
-        "name_official": "Gibraltar"
-      },
-      "it": {
-        "name": "Gibilterra",
-        "name_official": "Gibilterra"
-      },
-      "ru": {
-        "name": "Гибралтар",
-        "name_official": "Гибралтар"
-      },
-      "zh": {
-        "name": "直布罗陀",
-        "name_official": "直布罗陀"
-      }
-    }
-  },
-  {
     "id": "64",
     "enabled": false,
     "code3l": "GRC",
@@ -3467,45 +2492,6 @@
       "zh": {
         "name": "希 腊",
         "name_official": "希腊共和国"
-      }
-    }
-  },
-  {
-    "id": "213",
-    "enabled": false,
-    "code3l": "GRL",
-    "code2l": "GL",
-    "name": "Greenland",
-    "name_official": "Greenland",
-    "center": {
-      "latitude": "71.42932629",
-      "longitude": "-34.38651956",
-      "zoom": "3"
-    },
-    "names": {
-      "ar": {
-        "name": "جرينلاند",
-        "name_official": "جرينلاند"
-      },
-      "es": {
-        "name": "Groenlandia",
-        "name_official": "Groenlandia"
-      },
-      "fr": {
-        "name": "Groenland",
-        "name_official": "Groenland"
-      },
-      "it": {
-        "name": "Groenlandia",
-        "name_official": "Groenlandia"
-      },
-      "ru": {
-        "name": "Гренландия",
-        "name_official": "Гренландия"
-      },
-      "zh": {
-        "name": "格陵兰",
-        "name_official": "格陵兰"
       }
     }
   },
@@ -3549,84 +2535,6 @@
     }
   },
   {
-    "id": "214",
-    "enabled": false,
-    "code3l": "GLP",
-    "code2l": "GP",
-    "name": "Guadeloupe",
-    "name_official": "Department of Guadeloupe",
-    "center": {
-      "latitude": "16.26472785",
-      "longitude": "-61.55099400",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "غوادلوب",
-        "name_official": "غوادلوب"
-      },
-      "es": {
-        "name": "Guadalupe",
-        "name_official": "Guadalupe"
-      },
-      "fr": {
-        "name": "Guadeloupe",
-        "name_official": "Guadeloupe"
-      },
-      "it": {
-        "name": "Guadalupa",
-        "name_official": "Guadalupa"
-      },
-      "ru": {
-        "name": "Гваделупа",
-        "name_official": "Гваделупа"
-      },
-      "zh": {
-        "name": "瓜德罗普",
-        "name_official": "瓜德罗普"
-      }
-    }
-  },
-  {
-    "id": "216",
-    "enabled": false,
-    "code3l": "GUM",
-    "code2l": "GU",
-    "name": "Guam",
-    "name_official": "Territory of Guam",
-    "center": {
-      "latitude": "13.44410137",
-      "longitude": "144.80747791",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "غوام",
-        "name_official": "غوام"
-      },
-      "es": {
-        "name": "Guam",
-        "name_official": "Guam"
-      },
-      "fr": {
-        "name": "Guam",
-        "name_official": "Guam"
-      },
-      "it": {
-        "name": "Guam",
-        "name_official": "Guam"
-      },
-      "ru": {
-        "name": "Гуам",
-        "name_official": "Гуам"
-      },
-      "zh": {
-        "name": "关岛",
-        "name_official": "关岛"
-      }
-    }
-  },
-  {
     "id": "66",
     "enabled": false,
     "code3l": "GTM",
@@ -3662,45 +2570,6 @@
       "zh": {
         "name": "危地马拉",
         "name_official": "危地马拉共和国"
-      }
-    }
-  },
-  {
-    "id": "211",
-    "enabled": false,
-    "code3l": "GGY",
-    "code2l": "GG",
-    "name": "Guernsey",
-    "name_official": "Bailiwick of Guernsey",
-    "center": {
-      "latitude": "49.46565975",
-      "longitude": "-2.58527200",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "غيرنزي",
-        "name_official": "غيرنزي"
-      },
-      "es": {
-        "name": "Guernsey",
-        "name_official": "Guernsey"
-      },
-      "fr": {
-        "name": "Guernesey",
-        "name_official": "Guernesey"
-      },
-      "it": {
-        "name": "Guernsey",
-        "name_official": "Guernsey"
-      },
-      "ru": {
-        "name": "Гернси",
-        "name_official": "Гернси"
-      },
-      "zh": {
-        "name": "根西岛",
-        "name_official": "根西岛"
       }
     }
   },
@@ -3861,84 +2730,6 @@
     }
   },
   {
-    "id": "218",
-    "enabled": false,
-    "code3l": "HMD",
-    "code2l": "HM",
-    "name": "Heard Island And McDonald Islands",
-    "name_official": "Heard and McDonald Islands",
-    "center": {
-      "latitude": "-53.08168847",
-      "longitude": "73.50415800",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "جزيرة هيرد وجزر ماكدونالد",
-        "name_official": "جزيرة هيرد وجزر ماكدونالد"
-      },
-      "es": {
-        "name": "Isla Heard e Islas McDonald",
-        "name_official": "Islas Heard e Islas McDonald"
-      },
-      "fr": {
-        "name": "Îles Heard-et-MacDonald",
-        "name_official": "Îles Heard-et-MacDonald"
-      },
-      "it": {
-        "name": "Isola Heard e Isole McDonald",
-        "name_official": "Isola Heard e Isole McDonald"
-      },
-      "ru": {
-        "name": "Остров Херд и острова Макдональд",
-        "name_official": "Остров Херд и острова Макдональд"
-      },
-      "zh": {
-        "name": "赫德岛和麦克唐纳群岛",
-        "name_official": "赫德岛和麦克唐纳群岛"
-      }
-    }
-  },
-  {
-    "id": "245",
-    "enabled": false,
-    "code3l": "VAT",
-    "code2l": "VA",
-    "name": "Holy See",
-    "name_official": "Holy see",
-    "center": {
-      "latitude": "41.90377810",
-      "longitude": "12.45340142",
-      "zoom": "16"
-    },
-    "names": {
-      "ar": {
-        "name": "الكرسي الرسولي ",
-        "name_official": "الكرسي الرسولي "
-      },
-      "es": {
-        "name": "Santa Sede",
-        "name_official": "la Santa Sede"
-      },
-      "fr": {
-        "name": "Saint-Siège",
-        "name_official": "le Saint-Siège"
-      },
-      "it": {
-        "name": "Santa Sede",
-        "name_official": "Santa Sede"
-      },
-      "ru": {
-        "name": "Святой Престол",
-        "name_official": "Святой Престол"
-      },
-      "zh": {
-        "name": "教廷",
-        "name_official": "教廷"
-      }
-    }
-  },
-  {
     "id": "71",
     "enabled": false,
     "code3l": "HND",
@@ -3974,45 +2765,6 @@
       "zh": {
         "name": "洪都拉斯",
         "name_official": "洪都拉斯共和国"
-      }
-    }
-  },
-  {
-    "id": "217",
-    "enabled": false,
-    "code3l": "HKG",
-    "code2l": "HK",
-    "name": "Hong Kong",
-    "name_official": "Hong Kong Special Administrative Region of the People's Republic",
-    "center": {
-      "latitude": "22.33728531",
-      "longitude": "114.14657786",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "هونغ كونغ",
-        "name_official": "هونغ كونغ"
-      },
-      "es": {
-        "name": "Hong Kong",
-        "name_official": "Hong Kong"
-      },
-      "fr": {
-        "name": "Hong Kong",
-        "name_official": "Hong Kong"
-      },
-      "it": {
-        "name": "Hong Kong",
-        "name_official": "Hong Kong"
-      },
-      "ru": {
-        "name": "Гонконг",
-        "name_official": "Гонконг"
-      },
-      "zh": {
-        "name": "香港",
-        "name_official": "香港"
       }
     }
   },
@@ -4173,45 +2925,6 @@
     }
   },
   {
-    "id": "187",
-    "enabled": false,
-    "code3l": "IRN",
-    "code2l": "IR",
-    "name": "Iran (Islamic Republic of)",
-    "name_official": "Islamic Republic of Iran",
-    "center": {
-      "latitude": "31.40240324",
-      "longitude": "51.28204814",
-      "zoom": "5"
-    },
-    "names": {
-      "ar": {
-        "name": "الإسلامية - جمهورية - إيران ",
-        "name_official": "الإسلامية إيران جمهورية "
-      },
-      "es": {
-        "name": "Irán",
-        "name_official": "la República Islámica del Irán"
-      },
-      "fr": {
-        "name": "Iran",
-        "name_official": "la République islamique d'Iran"
-      },
-      "it": {
-        "name": "Iran",
-        "name_official": "Repubblica islamica dell'Iran"
-      },
-      "ru": {
-        "name": "Иран (Исламская Республика)",
-        "name_official": "Исламская Республика Иран"
-      },
-      "zh": {
-        "name": "伊 朗(伊斯兰共和国)",
-        "name_official": "伊朗伊斯兰共和国"
-      }
-    }
-  },
-  {
     "id": "76",
     "enabled": false,
     "code3l": "IRQ",
@@ -4286,37 +2999,6 @@
       "zh": {
         "name": "爱尔兰",
         "name_official": "爱尔兰"
-      }
-    }
-  },
-  {
-    "id": "219",
-    "enabled": false,
-    "code3l": "IMN",
-    "code2l": "IM",
-    "name": "Isle of Man",
-    "name_official": "The Isle of Man",
-    "center": {
-      "latitude": "54.23562697",
-      "longitude": "-4.54805400",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "جزيرة مان",
-        "name_official": "جزيرة مان"
-      },
-      "es": {
-        "name": "Isla",
-        "name_official": "Isla"
-      },
-      "fr": {
-        "name": "Ile du Man",
-        "name_official": "Ile du Man"
-      },
-      "it": {
-        "name": "Isola di Man",
-        "name_official": "Isola di Man"
       }
     }
   },
@@ -4473,45 +3155,6 @@
       "zh": {
         "name": "日 本",
         "name_official": "日本国"
-      }
-    }
-  },
-  {
-    "id": "221",
-    "enabled": false,
-    "code3l": "JEY",
-    "code2l": "JE",
-    "name": "Jersey",
-    "name_official": "Bailiwick of Jersey",
-    "center": {
-      "latitude": "49.21440771",
-      "longitude": "-2.13124600",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "جيرسي",
-        "name_official": "جيرسي"
-      },
-      "es": {
-        "name": "Jersey",
-        "name_official": "Jersey"
-      },
-      "fr": {
-        "name": "Jersey",
-        "name_official": "Jersey"
-      },
-      "it": {
-        "name": "Jersey",
-        "name_official": "Jersey"
-      },
-      "ru": {
-        "name": "Джерси",
-        "name_official": "Джерси"
-      },
-      "zh": {
-        "name": "泽西岛",
-        "name_official": "泽西岛"
       }
     }
   },
@@ -5101,45 +3744,6 @@
     }
   },
   {
-    "id": "224",
-    "enabled": false,
-    "code3l": "MAC",
-    "code2l": "MO",
-    "name": "Macao",
-    "name_official": "Macau Special Administrative Region",
-    "center": {
-      "latitude": "22.19872287",
-      "longitude": "113.54387700",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "ماكاو",
-        "name_official": "ماكاو منطقة إدارية خاصة "
-      },
-      "es": {
-        "name": "Macao",
-        "name_official": "la Región Administrativa Especial de Macao"
-      },
-      "fr": {
-        "name": "Macao",
-        "name_official": "la Région administrative spéciale de Macao"
-      },
-      "it": {
-        "name": "Macao",
-        "name_official": "Regione amministrativa speciale di Macao"
-      },
-      "ru": {
-        "name": "Макао",
-        "name_official": "Специальный административный район Макао"
-      },
-      "zh": {
-        "name": "澳门",
-        "name_official": "澳门特别行政区"
-      }
-    }
-  },
-  {
     "id": "97",
     "enabled": false,
     "code3l": "MDG",
@@ -5413,45 +4017,6 @@
     }
   },
   {
-    "id": "226",
-    "enabled": false,
-    "code3l": "MTQ",
-    "code2l": "MQ",
-    "name": "Martinique",
-    "name_official": "Department of Martinique",
-    "center": {
-      "latitude": "14.64128045",
-      "longitude": "-61.02417600",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "مارتينيك",
-        "name_official": "مارتينيك قسم "
-      },
-      "es": {
-        "name": "Martinica",
-        "name_official": "el Departamento de Martinica"
-      },
-      "fr": {
-        "name": "Martinique",
-        "name_official": "le Département de la Martinique"
-      },
-      "it": {
-        "name": "Martinica",
-        "name_official": "Dipartimento di Martinica"
-      },
-      "ru": {
-        "name": "Мартиника",
-        "name_official": "Департамент Мартиника"
-      },
-      "zh": {
-        "name": "马提尼克",
-        "name_official": "马提尼克部"
-      }
-    }
-  },
-  {
     "id": "104",
     "enabled": false,
     "code3l": "MRT",
@@ -5530,45 +4095,6 @@
     }
   },
   {
-    "id": "249",
-    "enabled": false,
-    "code3l": "MYT",
-    "code2l": "YT",
-    "name": "Mayotte",
-    "name_official": "Overseas Department of Mayotte",
-    "center": {
-      "latitude": "-12.82744522",
-      "longitude": "45.16624200",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "مايوت",
-        "name_official": "مايوت قسم "
-      },
-      "es": {
-        "name": "Mayotte",
-        "name_official": "el Departamento de Mayotte"
-      },
-      "fr": {
-        "name": "Mayotte",
-        "name_official": "le Département de Mayotte"
-      },
-      "it": {
-        "name": "Mayotte",
-        "name_official": "Dipartimento di Mayotte"
-      },
-      "ru": {
-        "name": "Майотта",
-        "name_official": "Заморское отделение Майотта"
-      },
-      "zh": {
-        "name": "马约特",
-        "name_official": "马约特部"
-      }
-    }
-  },
-  {
     "id": "106",
     "enabled": false,
     "code3l": "MEX",
@@ -5604,45 +4130,6 @@
       "zh": {
         "name": "墨西哥",
         "name_official": "墨西哥合众国"
-      }
-    }
-  },
-  {
-    "id": "185",
-    "enabled": false,
-    "code3l": "FSM",
-    "code2l": "FM",
-    "name": "Micronesia (Federated States of)",
-    "name_official": "Federated States of Micronesia",
-    "center": {
-      "latitude": "6.88747377",
-      "longitude": "158.21507170",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "ميكرونيزيا",
-        "name_official": "الموحدة ميكرونيزيا ولايات "
-      },
-      "es": {
-        "name": "Micronesia (Estados Federados de)",
-        "name_official": "los Estados Federados de Micronesia"
-      },
-      "fr": {
-        "name": "Micronésie (États fédérés de)",
-        "name_official": "les États fédérés de Micronésie"
-      },
-      "it": {
-        "name": "Micronesia (Stati federati di)",
-        "name_official": "Stati federati di Micronesia"
-      },
-      "ru": {
-        "name": "Микронезия (Федеративные Штаты)",
-        "name_official": "Федеративные Штаты Микронезии"
-      },
-      "zh": {
-        "name": "密克罗尼西亚(联邦)",
-        "name_official": "密克罗尼西亚联邦"
       }
     }
   },
@@ -5760,45 +4247,6 @@
       "zh": {
         "name": "黑山",
         "name_official": "黑山"
-      }
-    }
-  },
-  {
-    "id": "227",
-    "enabled": false,
-    "code3l": "MSR",
-    "code2l": "MS",
-    "name": "Montserrat",
-    "name_official": "Montserrat",
-    "center": {
-      "latitude": "16.74774077",
-      "longitude": "-62.18736600",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "مونتسرات",
-        "name_official": "مونتسرات"
-      },
-      "es": {
-        "name": "Montserrat",
-        "name_official": "Montserrat"
-      },
-      "fr": {
-        "name": "Montserrat",
-        "name_official": "Montserrat"
-      },
-      "it": {
-        "name": "Montserrat",
-        "name_official": "Montserrat"
-      },
-      "ru": {
-        "name": "Монтсеррат",
-        "name_official": "Монтсеррат"
-      },
-      "zh": {
-        "name": "蒙特塞拉特",
-        "name_official": "蒙特塞拉特"
       }
     }
   },
@@ -6076,45 +4524,6 @@
     }
   },
   {
-    "id": "228",
-    "enabled": false,
-    "code3l": "NCL",
-    "code2l": "NC",
-    "name": "New Caledonia",
-    "name_official": "Territory of New Caledonia and Dependencies",
-    "center": {
-      "latitude": "-21.26104020",
-      "longitude": "165.58783760",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "كاليدونيا الجديدة",
-        "name_official": "كاليدونيا الجديدة الإقليم والتبعيات "
-      },
-      "es": {
-        "name": "Nueva Caledonia",
-        "name_official": "el Territorio de Nueva Caledonia y Dependencias"
-      },
-      "fr": {
-        "name": "Nouvelle-Calédonie",
-        "name_official": "le Territoire de la Nouvelle-Calédonie et Dépendances"
-      },
-      "it": {
-        "name": "Nuova Caledonia",
-        "name_official": "Territorio della Nuova Caledonia e dipendenze"
-      },
-      "ru": {
-        "name": "Новая Каледония",
-        "name_official": "Территория Новой Каледонии и Зависимости"
-      },
-      "zh": {
-        "name": "新喀里多尼亚",
-        "name_official": "新喀里多尼亚和附属地区"
-      }
-    }
-  },
-  {
     "id": "117",
     "enabled": false,
     "code3l": "NZL",
@@ -6271,162 +4680,6 @@
     }
   },
   {
-    "id": "192",
-    "enabled": false,
-    "code3l": "NIU",
-    "code2l": "NU",
-    "name": "Niue",
-    "name_official": "Niue",
-    "center": {
-      "latitude": "-19.04976362",
-      "longitude": "-169.86585571",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "نيوى",
-        "name_official": "نيوى"
-      },
-      "es": {
-        "name": "Niue",
-        "name_official": "Niue"
-      },
-      "fr": {
-        "name": "Nioué",
-        "name_official": "Nioué"
-      },
-      "it": {
-        "name": "Niue",
-        "name_official": "Niue"
-      },
-      "ru": {
-        "name": "Ниуэ",
-        "name_official": "Ниуэ"
-      },
-      "zh": {
-        "name": "纽 埃",
-        "name_official": "纽埃共和国"
-      }
-    }
-  },
-  {
-    "id": "229",
-    "enabled": false,
-    "code3l": "NFK",
-    "code2l": "NF",
-    "name": "Norfolk Island",
-    "name_official": "Norfolk Islands",
-    "center": {
-      "latitude": "-29.02801043",
-      "longitude": "167.94303023",
-      "zoom": "13"
-    },
-    "names": {
-      "ar": {
-        "name": "جزيرة نورفولك",
-        "name_official": "جزر نورفولك"
-      },
-      "es": {
-        "name": "Isla Norfolk",
-        "name_official": "Islas Norfolk"
-      },
-      "fr": {
-        "name": "Île Norfolk",
-        "name_official": "Îles Norfolk"
-      },
-      "it": {
-        "name": "Isola Norfolk",
-        "name_official": "Isole Norfolk"
-      },
-      "ru": {
-        "name": "Остров Норфолк",
-        "name_official": "Острова Норфолк"
-      },
-      "zh": {
-        "name": "诺福克岛",
-        "name_official": "诺福克群岛"
-      }
-    }
-  },
-  {
-    "id": "191",
-    "enabled": false,
-    "code3l": "MKD",
-    "code2l": "MK",
-    "name": "North Macedonia",
-    "name_official": "Republic of North Macedonia",
-    "center": {
-      "latitude": "41.60059479",
-      "longitude": "21.74527900",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "جمهورية مقدونيا اليوغوسلافية السابقة ",
-        "name_official": "جمهورية مقدونيا اليوغوسلافية السابقة "
-      },
-      "es": {
-        "name": "ex República Yugoslava de Macedonia",
-        "name_official": "la ex República Yugoslava de Macedonia"
-      },
-      "fr": {
-        "name": "ex-République yougoslave de Macédoine",
-        "name_official": "l'ex-République yougoslave de Macédoine"
-      },
-      "it": {
-        "name": "ex Repubblica jugoslava di Macedonia",
-        "name_official": "L'ex Repubblica jugoslava di Macedonia"
-      },
-      "ru": {
-        "name": "бывшая югославская Республика Македония",
-        "name_official": "бывшая югославская Республика Македония"
-      },
-      "zh": {
-        "name": "前南斯拉夫的马其顿共和国",
-        "name_official": "前南斯拉夫的马其顿共和国"
-      }
-    }
-  },
-  {
-    "id": "225",
-    "enabled": false,
-    "code3l": "MNP",
-    "code2l": "MP",
-    "name": "Northern Mariana Islands",
-    "name_official": "Commonwealth of the Northern Mariana Islands",
-    "center": {
-      "latitude": "15.09783636",
-      "longitude": "145.67390000",
-      "zoom": "11"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر ماريانا الشمالية",
-        "name_official": "كومنولث جزر ماريانا الشمالية "
-      },
-      "es": {
-        "name": "Islas Marianas del Norte",
-        "name_official": "el Commonwealth de las Islas Marianas del Norte"
-      },
-      "fr": {
-        "name": "Îles Mariannes du Nord",
-        "name_official": "le Commonwealth des Îles Mariannes du Nord"
-      },
-      "it": {
-        "name": "Isole Marianne Settentrionali",
-        "name_official": "Commonwealth delle Isole Marianne Settentrionali"
-      },
-      "ru": {
-        "name": "Северные Марианские острова",
-        "name_official": "Содружество Северные Марианские острова"
-      },
-      "zh": {
-        "name": "北马里亚纳群岛",
-        "name_official": "北马里亚纳群岛联邦"
-      }
-    }
-  },
-  {
     "id": "121",
     "enabled": false,
     "code3l": "NOR",
@@ -6579,45 +4832,6 @@
       "zh": {
         "name": "帕劳",
         "name_official": "帕劳共和国"
-      }
-    }
-  },
-  {
-    "id": "234",
-    "enabled": false,
-    "code3l": "PSE",
-    "code2l": "PS",
-    "name": "Palestinian Territory, Occupied",
-    "name_official": "Occupied Palestinian Territory",
-    "center": {
-      "latitude": "32.26367103",
-      "longitude": "35.21936714",
-      "zoom": "8"
-    },
-    "names": {
-      "ar": {
-        "name": "الأراضي الفلسطينية المحتلة",
-        "name_official": "الأراضي الفلسطينية المحتلة"
-      },
-      "es": {
-        "name": "Territorio Palestino Ocupado",
-        "name_official": "Territorio Palestino Ocupado"
-      },
-      "fr": {
-        "name": "Territoire palestinien occupé",
-        "name_official": "Territoire palestinien occupé"
-      },
-      "it": {
-        "name": "Territorio Palestinese Occupato",
-        "name_official": "Territorio Palestinese Occupato"
-      },
-      "ru": {
-        "name": "Оккупированная территория Палестины",
-        "name_official": "Оккупированная территория Палестины"
-      },
-      "zh": {
-        "name": "巴勒斯坦领土",
-        "name_official": "巴勒斯坦领土"
       }
     }
   },
@@ -6817,45 +5031,6 @@
     }
   },
   {
-    "id": "232",
-    "enabled": false,
-    "code3l": "PCN",
-    "code2l": "PN",
-    "name": "Pitcairn Islands",
-    "name_official": "Pitcairn Group of Islands",
-    "center": {
-      "latitude": "-24.37673925",
-      "longitude": "-128.32423730",
-      "zoom": "13"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر بيتكيرن",
-        "name_official": "مجموعة جزر بيتكيرن "
-      },
-      "es": {
-        "name": "Islas Pitcairn",
-        "name_official": "el Grupo de Islas Pitcairn"
-      },
-      "fr": {
-        "name": "Îles Pitcairn",
-        "name_official": "le Groupe d'îles Pitcairn"
-      },
-      "it": {
-        "name": "Isole Pitcairn",
-        "name_official": "il Gruppo di Isole Pitcairn"
-      },
-      "ru": {
-        "name": "Острова Питкэрн",
-        "name_official": "Группа островов Питкэрн"
-      },
-      "zh": {
-        "name": "皮特凯恩群岛",
-        "name_official": "皮特凯恩群岛"
-      }
-    }
-  },
-  {
     "id": "130",
     "enabled": false,
     "code3l": "POL",
@@ -6934,45 +5109,6 @@
     }
   },
   {
-    "id": "233",
-    "enabled": false,
-    "code3l": "PRI",
-    "code2l": "PR",
-    "name": "Puerto Rico",
-    "name_official": "Commonwealth of Puerto Rico",
-    "center": {
-      "latitude": "18.21963053",
-      "longitude": "-66.59015100",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "بورتوريكو",
-        "name_official": "كومنولث بورتوريكو "
-      },
-      "es": {
-        "name": "Puerto Rico",
-        "name_official": "el Commonwealth de Puerto Rico"
-      },
-      "fr": {
-        "name": "Porto Rico",
-        "name_official": "le Commonwealth de Porto Rico"
-      },
-      "it": {
-        "name": "Porto Rico",
-        "name_official": "Commonwealth di Porto Rico"
-      },
-      "ru": {
-        "name": "Пуэрто-Рико",
-        "name_official": "Содружество Пуэрто-Рико"
-      },
-      "zh": {
-        "name": "波多黎各",
-        "name_official": "波多黎各自由邦"
-      }
-    }
-  },
-  {
     "id": "132",
     "enabled": false,
     "code3l": "QAT",
@@ -7008,123 +5144,6 @@
       "zh": {
         "name": "卡塔尔",
         "name_official": "卡塔尔国"
-      }
-    }
-  },
-  {
-    "id": "189",
-    "enabled": false,
-    "code3l": "KOR",
-    "code2l": "KR",
-    "name": "Republic of Korea",
-    "name_official": "Republic of Korea",
-    "center": {
-      "latitude": "36.56344139",
-      "longitude": "127.51424646",
-      "zoom": "7"
-    },
-    "names": {
-      "ar": {
-        "name": "جمهورية كوريا ",
-        "name_official": "جمهورية كوريا "
-      },
-      "es": {
-        "name": "República de Corea",
-        "name_official": "la República de Corea"
-      },
-      "fr": {
-        "name": "République de Corée",
-        "name_official": "la République de Corée"
-      },
-      "it": {
-        "name": "Repubblica di Corea",
-        "name_official": "Repubblica di Corea"
-      },
-      "ru": {
-        "name": "Республика Корея",
-        "name_official": "Республика Корея"
-      },
-      "zh": {
-        "name": "大韩民国",
-        "name_official": "大韩民国"
-      }
-    }
-  },
-  {
-    "id": "190",
-    "enabled": false,
-    "code3l": "MDA",
-    "code2l": "MD",
-    "name": "Republic of Moldova",
-    "name_official": "Republic of Moldova",
-    "center": {
-      "latitude": "47.10710437",
-      "longitude": "28.54018109",
-      "zoom": "7"
-    },
-    "names": {
-      "ar": {
-        "name": "جمهورية مولدوفا ",
-        "name_official": "جمهورية مولدوفا "
-      },
-      "es": {
-        "name": "República de Moldova",
-        "name_official": "la República de Moldova"
-      },
-      "fr": {
-        "name": "République de Moldova",
-        "name_official": "la République de Moldova"
-      },
-      "it": {
-        "name": "Repubblica di Moldova",
-        "name_official": "Repubblica di Moldova"
-      },
-      "ru": {
-        "name": "Республика Молдова",
-        "name_official": "Республика Молдова"
-      },
-      "zh": {
-        "name": "摩尔多瓦共和国",
-        "name_official": "摩尔多瓦共和国"
-      }
-    }
-  },
-  {
-    "id": "235",
-    "enabled": false,
-    "code3l": "REU",
-    "code2l": "RE",
-    "name": "Réunion",
-    "name_official": "Department of Reunion",
-    "center": {
-      "latitude": "-21.11480084",
-      "longitude": "55.53638200",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "ريونيون",
-        "name_official": "قسم ريونيون "
-      },
-      "es": {
-        "name": "Reunión",
-        "name_official": "el Departamento de Reunión"
-      },
-      "fr": {
-        "name": "Réunion",
-        "name_official": "le Département de la Réunion"
-      },
-      "it": {
-        "name": "Riunione",
-        "name_official": "Dipartimento di Riunione"
-      },
-      "ru": {
-        "name": "Реюньон",
-        "name_official": "Департамент Реюньон"
-      },
-      "zh": {
-        "name": "留尼汪",
-        "name_official": "留尼汪部门"
       }
     }
   },
@@ -7246,84 +5265,6 @@
     }
   },
   {
-    "id": "200",
-    "enabled": false,
-    "code3l": "BLM",
-    "code2l": "BL",
-    "name": "Saint Barthélemy",
-    "name_official": "Territorial collectivity of Saint Barthélemy",
-    "center": {
-      "latitude": "17.90042417",
-      "longitude": "-62.83376215",
-      "zoom": "13"
-    },
-    "names": {
-      "ar": {
-        "name": "سان بارتيلمي",
-        "name_official": "التجمعية الإقليمية سان بارتيلمي "
-      },
-      "es": {
-        "name": "San Bartolomé",
-        "name_official": "la Colectividad Territorial de San Bartolomé"
-      },
-      "fr": {
-        "name": "Saint-Barthélemy",
-        "name_official": "la Collectivité territoriale de Saint-Barthélemy"
-      },
-      "it": {
-        "name": "Saint-Barthélemy",
-        "name_official": "Collettività territoriale di Saint-Barthélemy"
-      },
-      "ru": {
-        "name": "Сен-Бартельми",
-        "name_official": "Территориальное образование Сен-Бартельми"
-      },
-      "zh": {
-        "name": "圣巴泰勒米",
-        "name_official": "圣巴泰勒米领土集体"
-      }
-    }
-  },
-  {
-    "id": "236",
-    "enabled": false,
-    "code3l": "SHN",
-    "code2l": "SH",
-    "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "name_official": "Saint Helena, Ascension and Tristan da Cunha",
-    "center": {
-      "latitude": "-37.10521846",
-      "longitude": "-12.27768580",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "سانت هيلينا وأسنسيون وتريستان دا كونا ",
-        "name_official": "سانت هيلينا وأسنسيون وتريستان دا كونا "
-      },
-      "es": {
-        "name": "Santa Elena, Ascensión y Tristán de Acuña",
-        "name_official": "Santa Elena, Ascensión y Tristán de Acuña"
-      },
-      "fr": {
-        "name": "Sainte-Hélène, Ascension et Tristan da Cunha",
-        "name_official": "Sainte-Hélène, Ascension et Tristan da Cunha"
-      },
-      "it": {
-        "name": "Sant'Elena, Ascensione e Tristan da Cunha",
-        "name_official": "Sant'Elena, Ascensione e Tristan da Cunha"
-      },
-      "ru": {
-        "name": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
-        "name_official": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
-      },
-      "zh": {
-        "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
-        "name_official": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
-      }
-    }
-  },
-  {
     "id": "136",
     "enabled": false,
     "code3l": "KNA",
@@ -7398,84 +5339,6 @@
       "zh": {
         "name": "圣卢西亚",
         "name_official": "圣卢西亚"
-      }
-    }
-  },
-  {
-    "id": "223",
-    "enabled": false,
-    "code3l": "MAF",
-    "code2l": "MF",
-    "name": "Saint Martin",
-    "name_official": "Saint Martin",
-    "center": {
-      "latitude": "18.07637107",
-      "longitude": "-63.05019106",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "سانت مارتن",
-        "name_official": "سانت مارتن"
-      },
-      "es": {
-        "name": "San Martín",
-        "name_official": "San Martín"
-      },
-      "fr": {
-        "name": "Saint-Martin",
-        "name_official": "Saint-Martin"
-      },
-      "it": {
-        "name": "Saint Martin",
-        "name_official": "Saint Martin"
-      },
-      "ru": {
-        "name": "Сен-Мартен",
-        "name_official": "Сен-Мартен"
-      },
-      "zh": {
-        "name": "圣马丁",
-        "name_official": "圣马丁"
-      }
-    }
-  },
-  {
-    "id": "231",
-    "enabled": false,
-    "code3l": "SPM",
-    "code2l": "PM",
-    "name": "Saint Pierre and Miquelon",
-    "name_official": "Saint Pierre and Miquelon",
-    "center": {
-      "latitude": "46.88469499",
-      "longitude": "-56.31590200",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "سان بيير وميكلون",
-        "name_official": "سان بيير وميكلون"
-      },
-      "es": {
-        "name": "San Pedro y Miquelón",
-        "name_official": "San Pedro y Miquelón"
-      },
-      "fr": {
-        "name": "Saint-Pierre-et-Miquelon",
-        "name_official": "Saint-Pierre-et-Miquelon"
-      },
-      "it": {
-        "name": "Saint Pierre e Miquelon",
-        "name_official": "Saint Pierre e Miquelon"
-      },
-      "ru": {
-        "name": "Сен-Пьер и Микелон",
-        "name_official": "Сен-Пьер и Микелон"
-      },
-      "zh": {
-        "name": "圣皮埃尔和密克隆",
-        "name_official": "圣皮埃尔和密克隆"
       }
     }
   },
@@ -7870,45 +5733,6 @@
     }
   },
   {
-    "id": "238",
-    "enabled": false,
-    "code3l": "SXM",
-    "code2l": "SX",
-    "name": "Sint Maarten",
-    "name_official": "Sint Maarten",
-    "center": {
-      "latitude": "18.04433885",
-      "longitude": "-63.05616320",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "سانت مارتن",
-        "name_official": "سانت مارتن"
-      },
-      "es": {
-        "name": "San Martín",
-        "name_official": "San Martín"
-      },
-      "fr": {
-        "name": "Saint-Martin",
-        "name_official": "Saint-Martin"
-      },
-      "it": {
-        "name": "Saint Martin",
-        "name_official": "Saint Martin"
-      },
-      "ru": {
-        "name": "Сен-Мартен",
-        "name_official": "Сен-Мартен"
-      },
-      "zh": {
-        "name": "圣马丁",
-        "name_official": "圣马丁"
-      }
-    }
-  },
-  {
     "id": "148",
     "enabled": false,
     "code3l": "SVK",
@@ -8104,84 +5928,6 @@
     }
   },
   {
-    "id": "215",
-    "enabled": false,
-    "code3l": "SGS",
-    "code2l": "GS",
-    "name": "South Georgia and the South Sandwich Islands",
-    "name_official": "South Georgia and the South Sandwich Islands",
-    "center": {
-      "latitude": "-54.38130284",
-      "longitude": "-36.67305304",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "جورجيا الجنوبية وجزر ساندويتش الجنوبية ",
-        "name_official": "جورجيا الجنوبية وجزر ساندويتش الجنوبية "
-      },
-      "es": {
-        "name": "Islas Georgias del Sur y Sandwich del Sur",
-        "name_official": "Islas Georgias del Sur y Sandwich del Sur"
-      },
-      "fr": {
-        "name": "Géorgie du Sud et les Îles Sandwich du Sud",
-        "name_official": "Géorgie du Sud et les Îles Sandwich du Sud"
-      },
-      "it": {
-        "name": "Georgia del Sud e Isole Sandwich Meridionali",
-        "name_official": "Georgia del Sud e Isole Sandwich Meridionali"
-      },
-      "ru": {
-        "name": "Южная Джорджия и Южные Сандвичевы острова",
-        "name_official": "Южная Джорджия и Южные Сандвичевы острова"
-      },
-      "zh": {
-        "name": "南乔治亚和南桑威奇群岛",
-        "name_official": "南乔治亚和南桑威奇群岛"
-      }
-    }
-  },
-  {
-    "id": "250",
-    "enabled": false,
-    "code3l": "SSD",
-    "code2l": "SS",
-    "name": "South Sudan",
-    "name_official": "Republic of South Sudan",
-    "center": {
-      "latitude": "7.91320803",
-      "longitude": "30.15342434",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "السودان جنوب ",
-        "name_official": "السودان جنوب جمهورية "
-      },
-      "es": {
-        "name": "Sudán del Sur",
-        "name_official": "la República de Sudán del Sur"
-      },
-      "fr": {
-        "name": "Soudan du Sud",
-        "name_official": "République du Soudan du Sud"
-      },
-      "it": {
-        "name": "Sud Sudan",
-        "name_official": "Repubblica del Sud Sudan"
-      },
-      "ru": {
-        "name": "Южный Судан",
-        "name_official": "Республика Южный Судан"
-      },
-      "zh": {
-        "name": "南苏丹",
-        "name_official": "南苏丹共和国"
-      }
-    }
-  },
-  {
     "id": "153",
     "enabled": false,
     "code3l": "ESP",
@@ -8338,41 +6084,41 @@
     }
   },
   {
-    "id": "237",
+    "id": "157",
     "enabled": false,
-    "code3l": "SJM",
-    "code2l": "SJ",
-    "name": "Svalbard and Jan Mayen",
-    "name_official": "Svalbard and Jan Mayen",
+    "code3l": "SWZ",
+    "code2l": "SZ",
+    "name": "Eswatini",
+    "name_official": "Kingdom of Eswatini",
     "center": {
-      "latitude": "77.92215764",
-      "longitude": "18.99010622",
-      "zoom": "4"
+      "latitude": "-26.53892570",
+      "longitude": "31.47960891",
+      "zoom": "9"
     },
     "names": {
       "ar": {
-        "name": "سفالبارد ويان ماين ",
-        "name_official": "سفالبارد ويان ماين "
+        "name": "إسواتيني",
+        "name_official": "مملكة إسواتيني"
       },
       "es": {
-        "name": "Svalbard y Jan Mayen",
-        "name_official": "Svalbard y Jan Mayen"
+        "name": "Eswatini",
+        "name_official": "el Reino de Eswatini"
       },
       "fr": {
-        "name": "Svalbard et Jan Mayen",
-        "name_official": "Svalbard et Jan Mayen"
+        "name": "Eswatini (l')",
+        "name_official": "le Royaume d’Eswatini"
       },
       "it": {
-        "name": "Svalbard e Jan Mayen",
-        "name_official": "Svalbard e Jan Mayen"
+        "name": "Eswatini",
+        "name_official": "il Regno di Eswatini"
       },
       "ru": {
-        "name": "Шпицберген и Ян-Майен",
-        "name_official": "Шпицберген и Ян-Майен"
+        "name": "Эсватини",
+        "name_official": "Королевство Эсватини"
       },
       "zh": {
-        "name": "斯瓦尔巴和扬马延",
-        "name_official": "斯瓦尔巴和扬马延"
+        "name": "斯威士兰",
+        "name_official": "斯威士兰王国"
       }
     }
   },
@@ -8490,45 +6236,6 @@
       "zh": {
         "name": "阿拉伯叙利亚共和国",
         "name_official": "阿拉伯叙利亚共和国"
-      }
-    }
-  },
-  {
-    "id": "242",
-    "enabled": false,
-    "code3l": "TWN",
-    "code2l": "TW",
-    "name": "Taiwan",
-    "name_official": "Republic of China",
-    "center": {
-      "latitude": "23.71891402",
-      "longitude": "121.10884043",
-      "zoom": "7"
-    },
-    "names": {
-      "ar": {
-        "name": "تايوان",
-        "name_official": "جمهورية الصين "
-      },
-      "es": {
-        "name": "Taiwán",
-        "name_official": "la República de China"
-      },
-      "fr": {
-        "name": "Taïwan",
-        "name_official": "la République de Chine"
-      },
-      "it": {
-        "name": "Taiwan",
-        "name_official": "Repubblica di Cina"
-      },
-      "ru": {
-        "name": "Тайвань",
-        "name_official": "Китайская Республика"
-      },
-      "zh": {
-        "name": "台湾",
-        "name_official": "中华民国"
       }
     }
   },
@@ -8685,45 +6392,6 @@
       "zh": {
         "name": "多 哥",
         "name_official": "多哥共和国"
-      }
-    }
-  },
-  {
-    "id": "241",
-    "enabled": false,
-    "code3l": "TKL",
-    "code2l": "TK",
-    "name": "Tokelau (Associate Member)",
-    "name_official": "Tokelau",
-    "center": {
-      "latitude": "-9.16682644",
-      "longitude": "-171.83981693",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "منتسب عضو - توكيلاو ",
-        "name_official": "توكيلاو"
-      },
-      "es": {
-        "name": "Tokelau (Miembro Asociado)",
-        "name_official": "Tokelau"
-      },
-      "fr": {
-        "name": "Tokélaou (Membre associé)",
-        "name_official": "les Tokélaou"
-      },
-      "it": {
-        "name": "Tokelau (Membro associato)",
-        "name_official": "Tokelau"
-      },
-      "ru": {
-        "name": "Токелау (ассоциированный член)",
-        "name_official": "Токелау"
-      },
-      "zh": {
-        "name": "托克劳（准成员）",
-        "name_official": "托克劳"
       }
     }
   },
@@ -8923,45 +6591,6 @@
     }
   },
   {
-    "id": "239",
-    "enabled": false,
-    "code3l": "TCA",
-    "code2l": "TC",
-    "name": "Turks and Caicos Islands",
-    "name_official": "Turks and Caicos Islands",
-    "center": {
-      "latitude": "21.72816866",
-      "longitude": "-71.79654471",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر تركس وكايكوس ",
-        "name_official": "جزر تركس وكايكوس "
-      },
-      "es": {
-        "name": "Islas Turcas y Caicos",
-        "name_official": "Islas Turcas y Caicos"
-      },
-      "fr": {
-        "name": "Îles Turques-et-Caïques",
-        "name_official": "Îles Turques-et-Caïques"
-      },
-      "it": {
-        "name": "Isole Turks e Caicos",
-        "name_official": "Isole Turks e Caicos"
-      },
-      "ru": {
-        "name": "Теркс и Кайкос",
-        "name_official": "Теркс и Кайкос"
-      },
-      "zh": {
-        "name": "特克斯和凯科斯群岛",
-        "name_official": "特克斯和凯科斯群岛"
-      }
-    }
-  },
-  {
     "id": "170",
     "enabled": false,
     "code3l": "TUV",
@@ -9118,201 +6747,6 @@
     }
   },
   {
-    "id": "186",
-    "enabled": false,
-    "code3l": "GBR",
-    "code2l": "GB",
-    "name": "United Kingdom",
-    "name_official": "United Kingdom of Great Britain and Northern Ireland",
-    "center": {
-      "latitude": "53.36540813",
-      "longitude": "-2.72184767",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "المملكة المتحدة ",
-        "name_official": "المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية "
-      },
-      "es": {
-        "name": "Reino Unido",
-        "name_official": "el Reino Unido (de Gran Bretaña e Irlanda del Norte)"
-      },
-      "fr": {
-        "name": "Royaume-Uni",
-        "name_official": "le Royaume-Uni (de Grande-Bretagne et d'Irlande du Nord)"
-      },
-      "it": {
-        "name": "Regno Unito",
-        "name_official": "Regno Unito di Gran Bretagna e Irlanda del nord"
-      },
-      "ru": {
-        "name": "Соединенное Королевство",
-        "name_official": "Соединенное Королевство Великобритании и Северной Ирландии"
-      },
-      "zh": {
-        "name": "联合王国",
-        "name_official": "大不列颠及北爱尔兰联合王国"
-      }
-    }
-  },
-  {
-    "id": "193",
-    "enabled": false,
-    "code3l": "TZA",
-    "code2l": "TZ",
-    "name": "United Republic of Tanzania",
-    "name_official": "United Republic of Tanzania",
-    "center": {
-      "latitude": "-6.37551085",
-      "longitude": "34.85587302",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "جمهورية تنزانيا المتحدة ",
-        "name_official": "جمهورية تنزانيا المتحدة "
-      },
-      "es": {
-        "name": "República Unida de Tanzanía",
-        "name_official": "la República Unida de Tanzanía"
-      },
-      "fr": {
-        "name": "République-Unie de Tanzanie",
-        "name_official": "la République-Unie de Tanzanie"
-      },
-      "it": {
-        "name": "Repubblica unita di Tanzania",
-        "name_official": "Repubblica unita di Tanzania"
-      },
-      "ru": {
-        "name": "Объединенная Республика Танзания",
-        "name_official": "Объединенная Республика Танзания"
-      },
-      "zh": {
-        "name": "坦桑尼亚联合共和国",
-        "name_official": "坦桑尼亚联合共和国"
-      }
-    }
-  },
-  {
-    "id": "243",
-    "enabled": false,
-    "code3l": "UMI",
-    "code2l": "UM",
-    "name": "United States Minor Outlying Islands",
-    "name_official": "United States Minor Outlying Islands",
-    "center": {
-      "latitude": "19.46305694",
-      "longitude": "177.98631092",
-      "zoom": "5"
-    },
-    "names": {
-      "ar": {
-        "name": "الولايات المتحدة البعيدة الصغيرة الجزر ",
-        "name_official": "الولايات المتحدة البعيدة الصغيرة الجزر "
-      },
-      "es": {
-        "name": "Islas Ultramarinas Menores de Estados Unidos",
-        "name_official": "Islas Ultramarinas Menores de Estados Unidos"
-      },
-      "fr": {
-        "name": "Îles mineures éloignées des États-Unis",
-        "name_official": "Îles mineures éloignées des États-Unis"
-      },
-      "it": {
-        "name": "Isole minori esterne degli Stati Uniti",
-        "name_official": "Isole minori esterne degli Stati Uniti"
-      },
-      "ru": {
-        "name": "Внешние малые острова США",
-        "name_official": "Внешние малые острова США"
-      },
-      "zh": {
-        "name": "美国本土外小岛屿",
-        "name_official": "美国本土外小岛屿"
-      }
-    }
-  },
-  {
-    "id": "244",
-    "enabled": false,
-    "code3l": "USA",
-    "code2l": "US",
-    "name": "United States of America",
-    "name_official": "United States of America",
-    "center": {
-      "latitude": "37.66895362",
-      "longitude": "-102.39256450",
-      "zoom": "4"
-    },
-    "names": {
-      "ar": {
-        "name": "الأمريكية المتحدة الولايات ",
-        "name_official": "الأمريكية المتحدة الولايات "
-      },
-      "es": {
-        "name": "Estados Unidos de América",
-        "name_official": "los Estados Unidos de América"
-      },
-      "fr": {
-        "name": "États-Unis d'Amérique",
-        "name_official": "les États-Unis d'Amérique"
-      },
-      "it": {
-        "name": "Stati Uniti d`America",
-        "name_official": "Stati Uniti d'America"
-      },
-      "ru": {
-        "name": "Соединенные Штаты Америки",
-        "name_official": "Соединенные Штаты Америки"
-      },
-      "zh": {
-        "name": "美 国",
-        "name_official": "美利坚合众国"
-      }
-    }
-  },
-  {
-    "id": "247",
-    "enabled": false,
-    "code3l": "VIR",
-    "code2l": "VI",
-    "name": "United States Virgin Islands",
-    "name_official": "Virgin Islands of the United States",
-    "center": {
-      "latitude": "18.01000938",
-      "longitude": "-64.77411410",
-      "zoom": "9"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر العذراء الأمريكية ",
-        "name_official": "جزر العذراء الأمريكية "
-      },
-      "es": {
-        "name": "Islas Vírgenes de los Estados Unidos",
-        "name_official": "Islas Vírgenes de los Estados Unidos"
-      },
-      "fr": {
-        "name": "Îles Vierges des États-Unis",
-        "name_official": "Îles Vierges des États-Unis"
-      },
-      "it": {
-        "name": "Isole Vergini degli Stati Uniti",
-        "name_official": "Isole Vergini degli Stati Uniti"
-      },
-      "ru": {
-        "name": "Виргинские острова США",
-        "name_official": "Виргинские острова США"
-      },
-      "zh": {
-        "name": "美国维尔京群岛",
-        "name_official": "美国维尔京群岛"
-      }
-    }
-  },
-  {
     "id": "174",
     "enabled": false,
     "code3l": "URY",
@@ -9430,45 +6864,6 @@
     }
   },
   {
-    "id": "194",
-    "enabled": false,
-    "code3l": "VEN",
-    "code2l": "VE",
-    "name": "Venezuela (Bolivarian Republic of)",
-    "name_official": "Bolivarian Republic of Venezuela",
-    "center": {
-      "latitude": "5.98477766",
-      "longitude": "-65.94152264",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "البوليفارية - جمهورية - فنزويلا ",
-        "name_official": "البوليفارية فنزويلا جمهورية "
-      },
-      "es": {
-        "name": "Venezuela (República Bolivariana de)",
-        "name_official": "la República Bolivariana de Venezuela"
-      },
-      "fr": {
-        "name": "Venezuela (République bolivarienne du)",
-        "name_official": "la République bolivarienne du Venezuela"
-      },
-      "it": {
-        "name": "Venezuela (Repubblica bolivariana di)",
-        "name_official": "Repubblica bolivariana di Venezuela"
-      },
-      "ru": {
-        "name": "Венесуэла (Боливарианская Республика)",
-        "name_official": "Боливарианская Республика Венесуэла"
-      },
-      "zh": {
-        "name": "委内瑞拉 (玻利瓦尔共和国)",
-        "name_official": "委内瑞拉玻利瓦尔共和国"
-      }
-    }
-  },
-  {
     "id": "177",
     "enabled": false,
     "code3l": "VNM",
@@ -9504,123 +6899,6 @@
       "zh": {
         "name": "越 南",
         "name_official": "越南社会主义共和国"
-      }
-    }
-  },
-  {
-    "id": "246",
-    "enabled": false,
-    "code3l": "VGB",
-    "code2l": "VG",
-    "name": "Virgin Islands",
-    "name_official": "British Virgin Islands",
-    "center": {
-      "latitude": "17.67004187",
-      "longitude": "-64.77411010",
-      "zoom": "10"
-    },
-    "names": {
-      "ar": {
-        "name": "جزر العذراء البريطانية ",
-        "name_official": "جزر العذراء البريطانية "
-      },
-      "es": {
-        "name": "Islas Vírgenes",
-        "name_official": "las Islas Vírgenes Británicas"
-      },
-      "fr": {
-        "name": "Îles Vierges",
-        "name_official": "les Îles Vierges britanniques"
-      },
-      "it": {
-        "name": "Isole Vergini",
-        "name_official": "Isole Vergini britanniche"
-      },
-      "ru": {
-        "name": "Виргинские острова",
-        "name_official": "Британские Виргинские острова"
-      },
-      "zh": {
-        "name": "维尔京群岛",
-        "name_official": "英属维尔京群岛"
-      }
-    }
-  },
-  {
-    "id": "248",
-    "enabled": false,
-    "code3l": "WLF",
-    "code2l": "WF",
-    "name": "Wallis and Futuna",
-    "name_official": "Territory of the Wallis and Futuna Islands",
-    "center": {
-      "latitude": "-14.29378486",
-      "longitude": "-178.11649800",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "والس وفوتونا ",
-        "name_official": "والس وفوتونا "
-      },
-      "es": {
-        "name": "Wallis y Futuna",
-        "name_official": "el Territorio de las Islas Wallis y Futuna"
-      },
-      "fr": {
-        "name": "Wallis et Futuna",
-        "name_official": "le Territoire des îles Wallis et Futuna"
-      },
-      "it": {
-        "name": "Wallis e Futuna",
-        "name_official": "Territorio delle Isole Wallis e Futuna"
-      },
-      "ru": {
-        "name": "Уоллис и Футуна",
-        "name_official": "Территория островов Уоллис и Футуна"
-      },
-      "zh": {
-        "name": "瓦利斯和富图纳",
-        "name_official": "瓦利斯和富图纳群岛领地"
-      }
-    }
-  },
-  {
-    "id": "207",
-    "enabled": false,
-    "code3l": "ESH",
-    "code2l": "EH",
-    "name": "Western Sahara",
-    "name_official": "Western Sahara",
-    "center": {
-      "latitude": "24.79324356",
-      "longitude": "-13.67683563",
-      "zoom": "6"
-    },
-    "names": {
-      "ar": {
-        "name": "الصحراء الغربية ",
-        "name_official": "الصحراء الغربية "
-      },
-      "es": {
-        "name": "Sahara Occidental",
-        "name_official": "Sahara Occidental"
-      },
-      "fr": {
-        "name": "Sahara occidental",
-        "name_official": "Sahara occidental"
-      },
-      "it": {
-        "name": "Sahara Occidentale",
-        "name_official": "Sahara Occidentale"
-      },
-      "ru": {
-        "name": "Западная Сахара",
-        "name_official": "Западная Сахара"
-      },
-      "zh": {
-        "name": "西撒哈拉",
-        "name_official": "西撒哈拉"
       }
     }
   },
@@ -9738,6 +7016,2728 @@
       "zh": {
         "name": "津巴布韦",
         "name_official": "津巴布韦共和国"
+      }
+    }
+  },
+  {
+    "id": "181",
+    "enabled": false,
+    "code3l": "COK",
+    "code2l": "CK",
+    "name": "Cook Islands",
+    "name_official": "Cook Islands",
+    "center": {
+      "latitude": "-21.23673066",
+      "longitude": "-159.77766900",
+      "zoom": "13"
+    },
+    "names": {
+      "ar": {
+        "name": "كوك جزر ",
+        "name_official": "كوك جزر "
+      },
+      "es": {
+        "name": "Islas Cook",
+        "name_official": "las Islas Cook"
+      },
+      "fr": {
+        "name": "Îles Cook",
+        "name_official": "les Îles Cook"
+      },
+      "it": {
+        "name": "Isole Cook",
+        "name_official": "Isole Cook"
+      },
+      "ru": {
+        "name": "Острова Кука",
+        "name_official": "Острова Кука"
+      },
+      "zh": {
+        "name": "库克群岛",
+        "name_official": "库克群岛"
+      }
+    }
+  },
+  {
+    "id": "182",
+    "enabled": false,
+    "code3l": "BOL",
+    "code2l": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "name_official": "Plurinational State of Bolivia",
+    "center": {
+      "latitude": "-16.74518128",
+      "longitude": "-65.19265691",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "بوليفيا - دولة - المتعددة القوميات ",
+        "name_official": "دولة بوليفيا المتعددة القوميات "
+      },
+      "es": {
+        "name": "Bolivia (Estado Plurinacional de)",
+        "name_official": "Estado Plurinacional de Bolivia"
+      },
+      "fr": {
+        "name": "Bolivie (État plurinational de)",
+        "name_official": "l'État plurinational de Bolivie"
+      },
+      "it": {
+        "name": "Bolivia (Stato plurinazionale della)",
+        "name_official": "Stato plurinazionale della Bolivia"
+      },
+      "ru": {
+        "name": "Боливия (Многонациональное Государство)",
+        "name_official": "Многонациональное Государство Боливия"
+      },
+      "zh": {
+        "name": "玻利维亚（多民族国）",
+        "name_official": "玻利维亚多民族国"
+      }
+    }
+  },
+  {
+    "id": "183",
+    "enabled": false,
+    "code3l": "COD",
+    "code2l": "CD",
+    "name": "Democratic Republic of the Congo",
+    "name_official": "Democratic Republic of Congo",
+    "center": {
+      "latitude": "-4.05373938",
+      "longitude": "23.01110741",
+      "zoom": "5"
+    },
+    "names": {
+      "ar": {
+        "name": "الديمقراطية الكونغو جمهورية ",
+        "name_official": "الديمقراطية الكونغو جمهورية "
+      },
+      "es": {
+        "name": "República Democrática del Congo",
+        "name_official": "la República Democrática del Congo"
+      },
+      "fr": {
+        "name": "République démocratique du Congo",
+        "name_official": "la République démocratique du Congo"
+      },
+      "it": {
+        "name": "Repubblica democratica del Congo",
+        "name_official": "Repubblica democratica del Congo"
+      },
+      "ru": {
+        "name": "Демократическая Республика Конго",
+        "name_official": "Демократическая Республика Конго"
+      },
+      "zh": {
+        "name": "刚果民主共和国",
+        "name_official": "刚果民主共和国"
+      }
+    }
+  },
+  {
+    "id": "184",
+    "enabled": false,
+    "code3l": "EUR",
+    "code2l": "EU",
+    "name": "European Union",
+    "name_official": "European Union",
+    "center": {
+      "latitude": "48.76380654",
+      "longitude": "14.26843140",
+      "zoom": "3"
+    },
+    "names": {
+      "ar": {
+        "name": "عضو منظمة - الأوروبي الإتحاد ",
+        "name_official": "عضو منظمة - الأوروبي الإتحاد "
+      },
+      "es": {
+        "name": "Unión Europea (Organización Miembro)",
+        "name_official": "Unión Europea (Organización Miembro)"
+      },
+      "fr": {
+        "name": "Union européenne (Organisation membre)",
+        "name_official": "l'Union européenne (Organisation membre)"
+      },
+      "it": {
+        "name": "Unione europea (Organizzazione membro)",
+        "name_official": "Unione europea (Organizzazione membro)"
+      },
+      "ru": {
+        "name": "Европейский союз (организация-член)",
+        "name_official": "Европейский союз (организация-член)"
+      },
+      "zh": {
+        "name": "欧洲联盟 （成员组织）",
+        "name_official": "欧洲联盟（成员组织）"
+      }
+    }
+  },
+  {
+    "id": "185",
+    "enabled": false,
+    "code3l": "FSM",
+    "code2l": "FM",
+    "name": "Micronesia (Federated States of)",
+    "name_official": "Federated States of Micronesia",
+    "center": {
+      "latitude": "6.88747377",
+      "longitude": "158.21507170",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "ميكرونيزيا",
+        "name_official": "الموحدة ميكرونيزيا ولايات "
+      },
+      "es": {
+        "name": "Micronesia (Estados Federados de)",
+        "name_official": "los Estados Federados de Micronesia"
+      },
+      "fr": {
+        "name": "Micronésie (États fédérés de)",
+        "name_official": "les États fédérés de Micronésie"
+      },
+      "it": {
+        "name": "Micronesia (Stati federati di)",
+        "name_official": "Stati federati di Micronesia"
+      },
+      "ru": {
+        "name": "Микронезия (Федеративные Штаты)",
+        "name_official": "Федеративные Штаты Микронезии"
+      },
+      "zh": {
+        "name": "密克罗尼西亚(联邦)",
+        "name_official": "密克罗尼西亚联邦"
+      }
+    }
+  },
+  {
+    "id": "186",
+    "enabled": false,
+    "code3l": "GBR",
+    "code2l": "GB",
+    "name": "United Kingdom",
+    "name_official": "United Kingdom of Great Britain and Northern Ireland",
+    "center": {
+      "latitude": "53.36540813",
+      "longitude": "-2.72184767",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "المملكة المتحدة ",
+        "name_official": "المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية "
+      },
+      "es": {
+        "name": "Reino Unido",
+        "name_official": "el Reino Unido (de Gran Bretaña e Irlanda del Norte)"
+      },
+      "fr": {
+        "name": "Royaume-Uni",
+        "name_official": "le Royaume-Uni (de Grande-Bretagne et d'Irlande du Nord)"
+      },
+      "it": {
+        "name": "Regno Unito",
+        "name_official": "Regno Unito di Gran Bretagna e Irlanda del nord"
+      },
+      "ru": {
+        "name": "Соединенное Королевство",
+        "name_official": "Соединенное Королевство Великобритании и Северной Ирландии"
+      },
+      "zh": {
+        "name": "联合王国",
+        "name_official": "大不列颠及北爱尔兰联合王国"
+      }
+    }
+  },
+  {
+    "id": "187",
+    "enabled": false,
+    "code3l": "IRN",
+    "code2l": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "name_official": "Islamic Republic of Iran",
+    "center": {
+      "latitude": "31.40240324",
+      "longitude": "51.28204814",
+      "zoom": "5"
+    },
+    "names": {
+      "ar": {
+        "name": "الإسلامية - جمهورية - إيران ",
+        "name_official": "الإسلامية إيران جمهورية "
+      },
+      "es": {
+        "name": "Irán",
+        "name_official": "la República Islámica del Irán"
+      },
+      "fr": {
+        "name": "Iran",
+        "name_official": "la République islamique d'Iran"
+      },
+      "it": {
+        "name": "Iran",
+        "name_official": "Repubblica islamica dell'Iran"
+      },
+      "ru": {
+        "name": "Иран (Исламская Республика)",
+        "name_official": "Исламская Республика Иран"
+      },
+      "zh": {
+        "name": "伊 朗(伊斯兰共和国)",
+        "name_official": "伊朗伊斯兰共和国"
+      }
+    }
+  },
+  {
+    "id": "188",
+    "enabled": false,
+    "code3l": "PRK",
+    "code2l": "KP",
+    "name": "Democratic People's Republic of Korea",
+    "name_official": "Democratic People's Republic of Korea",
+    "center": {
+      "latitude": "40.00785500",
+      "longitude": "127.48812834",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "الديمقراطية الشعبية كوريا جمهورية ",
+        "name_official": "الديمقراطية الشعبية كوريا جمهورية "
+      },
+      "es": {
+        "name": "República Popular Democrática de Corea",
+        "name_official": "la República Popular Democrática de Corea"
+      },
+      "fr": {
+        "name": "République populaire démocratique de Corée",
+        "name_official": "la République populaire démocratique de Corée"
+      },
+      "it": {
+        "name": "Repubblica popolare democratica di Corea",
+        "name_official": "Repubblica popolare democratica di Corea"
+      },
+      "ru": {
+        "name": "Корейская Народно-Демократическая Республика",
+        "name_official": "Корейская Народно-Демократическая Республика"
+      },
+      "zh": {
+        "name": "朝鲜民主主义人民共和国",
+        "name_official": "朝鲜民主主义人民共和国"
+      }
+    }
+  },
+  {
+    "id": "189",
+    "enabled": false,
+    "code3l": "KOR",
+    "code2l": "KR",
+    "name": "Republic of Korea",
+    "name_official": "Republic of Korea",
+    "center": {
+      "latitude": "36.56344139",
+      "longitude": "127.51424646",
+      "zoom": "7"
+    },
+    "names": {
+      "ar": {
+        "name": "جمهورية كوريا ",
+        "name_official": "جمهورية كوريا "
+      },
+      "es": {
+        "name": "República de Corea",
+        "name_official": "la República de Corea"
+      },
+      "fr": {
+        "name": "République de Corée",
+        "name_official": "la République de Corée"
+      },
+      "it": {
+        "name": "Repubblica di Corea",
+        "name_official": "Repubblica di Corea"
+      },
+      "ru": {
+        "name": "Республика Корея",
+        "name_official": "Республика Корея"
+      },
+      "zh": {
+        "name": "大韩民国",
+        "name_official": "大韩民国"
+      }
+    }
+  },
+  {
+    "id": "190",
+    "enabled": false,
+    "code3l": "MDA",
+    "code2l": "MD",
+    "name": "Republic of Moldova",
+    "name_official": "Republic of Moldova",
+    "center": {
+      "latitude": "47.10710437",
+      "longitude": "28.54018109",
+      "zoom": "7"
+    },
+    "names": {
+      "ar": {
+        "name": "جمهورية مولدوفا ",
+        "name_official": "جمهورية مولدوفا "
+      },
+      "es": {
+        "name": "República de Moldova",
+        "name_official": "la República de Moldova"
+      },
+      "fr": {
+        "name": "République de Moldova",
+        "name_official": "la République de Moldova"
+      },
+      "it": {
+        "name": "Repubblica di Moldova",
+        "name_official": "Repubblica di Moldova"
+      },
+      "ru": {
+        "name": "Республика Молдова",
+        "name_official": "Республика Молдова"
+      },
+      "zh": {
+        "name": "摩尔多瓦共和国",
+        "name_official": "摩尔多瓦共和国"
+      }
+    }
+  },
+  {
+    "id": "191",
+    "enabled": false,
+    "code3l": "MKD",
+    "code2l": "MK",
+    "name": "North Macedonia",
+    "name_official": "Republic of North Macedonia",
+    "center": {
+      "latitude": "41.60059479",
+      "longitude": "21.74527900",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "جمهورية مقدونيا اليوغوسلافية السابقة ",
+        "name_official": "جمهورية مقدونيا اليوغوسلافية السابقة "
+      },
+      "es": {
+        "name": "ex República Yugoslava de Macedonia",
+        "name_official": "la ex República Yugoslava de Macedonia"
+      },
+      "fr": {
+        "name": "ex-République yougoslave de Macédoine",
+        "name_official": "l'ex-République yougoslave de Macédoine"
+      },
+      "it": {
+        "name": "ex Repubblica jugoslava di Macedonia",
+        "name_official": "L'ex Repubblica jugoslava di Macedonia"
+      },
+      "ru": {
+        "name": "бывшая югославская Республика Македония",
+        "name_official": "бывшая югославская Республика Македония"
+      },
+      "zh": {
+        "name": "前南斯拉夫的马其顿共和国",
+        "name_official": "前南斯拉夫的马其顿共和国"
+      }
+    }
+  },
+  {
+    "id": "192",
+    "enabled": false,
+    "code3l": "NIU",
+    "code2l": "NU",
+    "name": "Niue",
+    "name_official": "Niue",
+    "center": {
+      "latitude": "-19.04976362",
+      "longitude": "-169.86585571",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "نيوى",
+        "name_official": "نيوى"
+      },
+      "es": {
+        "name": "Niue",
+        "name_official": "Niue"
+      },
+      "fr": {
+        "name": "Nioué",
+        "name_official": "Nioué"
+      },
+      "it": {
+        "name": "Niue",
+        "name_official": "Niue"
+      },
+      "ru": {
+        "name": "Ниуэ",
+        "name_official": "Ниуэ"
+      },
+      "zh": {
+        "name": "纽 埃",
+        "name_official": "纽埃共和国"
+      }
+    }
+  },
+  {
+    "id": "193",
+    "enabled": false,
+    "code3l": "TZA",
+    "code2l": "TZ",
+    "name": "United Republic of Tanzania",
+    "name_official": "United Republic of Tanzania",
+    "center": {
+      "latitude": "-6.37551085",
+      "longitude": "34.85587302",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "جمهورية تنزانيا المتحدة ",
+        "name_official": "جمهورية تنزانيا المتحدة "
+      },
+      "es": {
+        "name": "República Unida de Tanzanía",
+        "name_official": "la República Unida de Tanzanía"
+      },
+      "fr": {
+        "name": "République-Unie de Tanzanie",
+        "name_official": "la République-Unie de Tanzanie"
+      },
+      "it": {
+        "name": "Repubblica unita di Tanzania",
+        "name_official": "Repubblica unita di Tanzania"
+      },
+      "ru": {
+        "name": "Объединенная Республика Танзания",
+        "name_official": "Объединенная Республика Танзания"
+      },
+      "zh": {
+        "name": "坦桑尼亚联合共和国",
+        "name_official": "坦桑尼亚联合共和国"
+      }
+    }
+  },
+  {
+    "id": "194",
+    "enabled": false,
+    "code3l": "VEN",
+    "code2l": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "name_official": "Bolivarian Republic of Venezuela",
+    "center": {
+      "latitude": "5.98477766",
+      "longitude": "-65.94152264",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "البوليفارية - جمهورية - فنزويلا ",
+        "name_official": "البوليفارية فنزويلا جمهورية "
+      },
+      "es": {
+        "name": "Venezuela (República Bolivariana de)",
+        "name_official": "la República Bolivariana de Venezuela"
+      },
+      "fr": {
+        "name": "Venezuela (République bolivarienne du)",
+        "name_official": "la République bolivarienne du Venezuela"
+      },
+      "it": {
+        "name": "Venezuela (Repubblica bolivariana di)",
+        "name_official": "Repubblica bolivariana di Venezuela"
+      },
+      "ru": {
+        "name": "Венесуэла (Боливарианская Республика)",
+        "name_official": "Боливарианская Республика Венесуэла"
+      },
+      "zh": {
+        "name": "委内瑞拉 (玻利瓦尔共和国)",
+        "name_official": "委内瑞拉玻利瓦尔共和国"
+      }
+    }
+  },
+  {
+    "id": "195",
+    "enabled": false,
+    "code3l": "AIA",
+    "code2l": "AI",
+    "name": "Anguilla",
+    "name_official": "Anguilla",
+    "center": {
+      "latitude": "18.22053521",
+      "longitude": "-63.06861300",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "أنغويلا",
+        "name_official": "أنغويلا"
+      },
+      "es": {
+        "name": "Anguila",
+        "name_official": "Anguila"
+      },
+      "fr": {
+        "name": "Anguilla",
+        "name_official": "Anguilla"
+      },
+      "it": {
+        "name": "Anguilla",
+        "name_official": "Anguilla"
+      },
+      "ru": {
+        "name": "Ангилья",
+        "name_official": "Ангилья"
+      },
+      "zh": {
+        "name": "安圭拉",
+        "name_official": "安圭拉"
+      }
+    }
+  },
+  {
+    "id": "196",
+    "enabled": false,
+    "code3l": "ATA",
+    "code2l": "AQ",
+    "name": "Antarctica",
+    "name_official": "Antarctica",
+    "center": {
+      "latitude": "-45.13806295",
+      "longitude": "10.48095703",
+      "zoom": "2"
+    },
+    "names": {
+      "ar": {
+        "name": "القارة القطبية الجنوبية",
+        "name_official": "القارة القطبية الجنوبية"
+      },
+      "es": {
+        "name": "Antártida",
+        "name_official": "Antártida"
+      },
+      "fr": {
+        "name": "Antarctique",
+        "name_official": "Antarctique"
+      },
+      "it": {
+        "name": "Antartide",
+        "name_official": "Antartide"
+      },
+      "ru": {
+        "name": "Антарктика",
+        "name_official": "Антарктика"
+      },
+      "zh": {
+        "name": "南极洲",
+        "name_official": "南极洲"
+      }
+    }
+  },
+  {
+    "id": "197",
+    "enabled": false,
+    "code3l": "ASM",
+    "code2l": "AS",
+    "name": "American Samoa",
+    "name_official": "The United States Territory of American Samoa",
+    "center": {
+      "latitude": "-14.30634641",
+      "longitude": "-170.69501750",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "ساموا الأمريكية",
+        "name_official": "الولايات المتحدة الأمريكية إقليم ساموا الأمريكية "
+      },
+      "es": {
+        "name": "Samoa Americana",
+        "name_official": "el Territorio de Samoa Americana de los Estados Unidos"
+      },
+      "fr": {
+        "name": "Samoa américaines",
+        "name_official": "le Territoire des Samoa américaines des États-Unis"
+      },
+      "it": {
+        "name": "Samoa Americane",
+        "name_official": "il Territorio di Samoa Americane degli Stati Uniti"
+      },
+      "ru": {
+        "name": "Американское Самоа",
+        "name_official": "Территория Американское Самоа Соединенных Штатов"
+      },
+      "zh": {
+        "name": "美属萨摩亚",
+        "name_official": "美属萨摩亚领地"
+      }
+    }
+  },
+  {
+    "id": "198",
+    "enabled": false,
+    "code3l": "ABW",
+    "code2l": "AW",
+    "name": "Aruba",
+    "name_official": "Aruba of the Kingdom of the Netherlands",
+    "center": {
+      "latitude": "12.52109661",
+      "longitude": "-69.96833800",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "أروبا",
+        "name_official": "أروبا مملكة هولندا "
+      },
+      "es": {
+        "name": "Aruba",
+        "name_official": "Aruba del Reino de los Países Bajos"
+      },
+      "fr": {
+        "name": "Aruba",
+        "name_official": "Aruba du Royaume des Pays-Bas"
+      },
+      "it": {
+        "name": "Aruba",
+        "name_official": "Aruba del Regno dei Paesi Bassi"
+      },
+      "ru": {
+        "name": "Аруба",
+        "name_official": "Аруба Королевства Нидерландов"
+      },
+      "zh": {
+        "name": "阿鲁巴",
+        "name_official": "阿鲁巴荷兰王国"
+      }
+    }
+  },
+  {
+    "id": "199",
+    "enabled": false,
+    "code3l": "ALA",
+    "code2l": "AX",
+    "name": "Åland Islands",
+    "name_official": "Åland Islands",
+    "center": {
+      "latitude": "60.25403213",
+      "longitude": "20.35918350",
+      "zoom": "9"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر أولاند",
+        "name_official": "جزر أولاند"
+      },
+      "es": {
+        "name": "Islas Åland",
+        "name_official": "Islas Åland"
+      },
+      "fr": {
+        "name": "Îles Åland",
+        "name_official": "Îles Åland"
+      },
+      "it": {
+        "name": "Isole Åland",
+        "name_official": "Isole Åland"
+      },
+      "ru": {
+        "name": "Аландские острова",
+        "name_official": "Аландские острова"
+      },
+      "zh": {
+        "name": "奥兰群岛",
+        "name_official": "奥兰群岛"
+      }
+    }
+  },
+  {
+    "id": "200",
+    "enabled": false,
+    "code3l": "BLM",
+    "code2l": "BL",
+    "name": "Saint Barthélemy",
+    "name_official": "Territorial collectivity of Saint Barthélemy",
+    "center": {
+      "latitude": "17.90042417",
+      "longitude": "-62.83376215",
+      "zoom": "13"
+    },
+    "names": {
+      "ar": {
+        "name": "سان بارتيلمي",
+        "name_official": "التجمعية الإقليمية سان بارتيلمي "
+      },
+      "es": {
+        "name": "San Bartolomé",
+        "name_official": "la Colectividad Territorial de San Bartolomé"
+      },
+      "fr": {
+        "name": "Saint-Barthélemy",
+        "name_official": "la Collectivité territoriale de Saint-Barthélemy"
+      },
+      "it": {
+        "name": "Saint-Barthélemy",
+        "name_official": "Collettività territoriale di Saint-Barthélemy"
+      },
+      "ru": {
+        "name": "Сен-Бартельми",
+        "name_official": "Территориальное образование Сен-Бартельми"
+      },
+      "zh": {
+        "name": "圣巴泰勒米",
+        "name_official": "圣巴泰勒米领土集体"
+      }
+    }
+  },
+  {
+    "id": "201",
+    "enabled": false,
+    "code3l": "BMU",
+    "code2l": "BM",
+    "name": "Bermuda",
+    "name_official": "Bermudas",
+    "center": {
+      "latitude": "32.31995785",
+      "longitude": "-64.76182765",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "برمودا",
+        "name_official": "برمودا"
+      },
+      "es": {
+        "name": "Bermudas",
+        "name_official": "Bermudas"
+      },
+      "fr": {
+        "name": "Bermudes",
+        "name_official": "Bermudes"
+      },
+      "it": {
+        "name": "Bermuda",
+        "name_official": "Bermuda"
+      },
+      "ru": {
+        "name": "Бермудские острова",
+        "name_official": "Бермудские острова"
+      },
+      "zh": {
+        "name": "百慕大",
+        "name_official": "百慕大"
+      }
+    }
+  },
+  {
+    "id": "202",
+    "enabled": false,
+    "code3l": "BES",
+    "code2l": "BQ",
+    "name": "Bonaire, Saint Eustatius And Saba",
+    "name_official": "Bonaire, Saint Eustatius and Saba",
+    "center": {
+      "latitude": "12.17229702",
+      "longitude": "-68.28831170",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "بونير وسانت يوستاتيوس وصبا",
+        "name_official": "بونير وسانت يوستاتيوس وصبا"
+      },
+      "es": {
+        "name": "Bonaire, San Eustaquio y Saba",
+        "name_official": "Bonaire, San Eustaquio y Saba"
+      },
+      "fr": {
+        "name": "Bonaire, Saint-Eustache et Saba",
+        "name_official": "Bonaire, Saint-Eustache et Saba"
+      },
+      "it": {
+        "name": "Bonaire, Sant'Eustachio e Saba",
+        "name_official": "Bonaire, Sant'Eustachio e Saba"
+      },
+      "ru": {
+        "name": "Бонайре, Сант-Эстатиус и Саба",
+        "name_official": "Бонайре, Сант-Эстатиус и Саба"
+      },
+      "zh": {
+        "name": "博奈尔，圣尤斯特歇斯和萨巴",
+        "name_official": "博奈尔，圣尤斯特歇斯和萨巴"
+      }
+    }
+  },
+  {
+    "id": "203",
+    "enabled": false,
+    "code3l": "BVT",
+    "code2l": "BV",
+    "name": "Bouvet Island",
+    "name_official": "Bouvet Island",
+    "center": {
+      "latitude": "-54.42316906",
+      "longitude": "3.41319600",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "جزيرة بوفيه",
+        "name_official": "جزيرة بوفيه"
+      },
+      "es": {
+        "name": "Isla Bouvet",
+        "name_official": "Isla Bouvet"
+      },
+      "fr": {
+        "name": "Île Bouvet",
+        "name_official": "Île Bouvet"
+      },
+      "it": {
+        "name": "Isola Bouvet",
+        "name_official": "Isola Bouvet"
+      },
+      "ru": {
+        "name": "Остров Буве",
+        "name_official": "Остров Буве"
+      },
+      "zh": {
+        "name": "布韦岛",
+        "name_official": "布韦岛"
+      }
+    }
+  },
+  {
+    "id": "204",
+    "enabled": false,
+    "code3l": "CCK",
+    "code2l": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "name_official": "Territory of Cocos (Keeling) Islands",
+    "center": {
+      "latitude": "-12.12890685",
+      "longitude": "96.84689104",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر كوكوس (كيلينغ)",
+        "name_official": "إقليم جزر كوكوس (كيلينغ)"
+      },
+      "es": {
+        "name": "Islas Cocos (Keeling)",
+        "name_official": "Territorio de las Islas Cocos (Keeling)"
+      },
+      "fr": {
+        "name": "Îles Cocos (Keeling)",
+        "name_official": "Territoire des îles Cocos (Keeling)"
+      },
+      "it": {
+        "name": "Isole Cocos (Keeling)",
+        "name_official": "Territorio delle Isole Cocos (Keeling)"
+      },
+      "ru": {
+        "name": "Кокосовые (Килинг) острова",
+        "name_official": "Территория Кокосовых (Килинг) островов"
+      },
+      "zh": {
+        "name": "科科斯（基林）群岛",
+        "name_official": "科科斯（基林）群岛领地"
+      }
+    }
+  },
+  {
+    "id": "205",
+    "enabled": false,
+    "code3l": "CUW",
+    "code2l": "CW",
+    "name": "Curaçao",
+    "name_official": "Curaçao",
+    "center": {
+      "latitude": "12.20710309",
+      "longitude": "-69.02160369",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "كوراساو",
+        "name_official": "كوراساو"
+      },
+      "es": {
+        "name": "Curazao",
+        "name_official": "Curazao"
+      },
+      "fr": {
+        "name": "Curaçao",
+        "name_official": "Curaçao"
+      },
+      "it": {
+        "name": "Curaçao",
+        "name_official": "Curaçao"
+      },
+      "ru": {
+        "name": "Кюрасао",
+        "name_official": "Кюрасао"
+      },
+      "zh": {
+        "name": "库拉索",
+        "name_official": "库拉索"
+      }
+    }
+  },
+  {
+    "id": "206",
+    "enabled": false,
+    "code3l": "CXR",
+    "code2l": "CX",
+    "name": "Christmas Island",
+    "name_official": "Territory of Christmas Island",
+    "center": {
+      "latitude": "-10.49170619",
+      "longitude": "105.68083796",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "جزيرة كريسماس",
+        "name_official": "إقليم جزيرة كريسماس"
+      },
+      "es": {
+        "name": "Isla de Navidad",
+        "name_official": "Territorio de la Isla de Navidad"
+      },
+      "fr": {
+        "name": "Île Christmas",
+        "name_official": "Territoire de l'île Christmas"
+      },
+      "it": {
+        "name": "Isola di Natale",
+        "name_official": "Territorio dell'Isola di Natale"
+      },
+      "ru": {
+        "name": "Остров Рождества",
+        "name_official": "Территория острова Рождества"
+      },
+      "zh": {
+        "name": "圣诞岛",
+        "name_official": "圣诞岛领地"
+      }
+    }
+  },
+  {
+    "id": "207",
+    "enabled": false,
+    "code3l": "ESH",
+    "code2l": "EH",
+    "name": "Western Sahara",
+    "name_official": "Western Sahara",
+    "center": {
+      "latitude": "24.79324356",
+      "longitude": "-13.67683563",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "الصحراء الغربية ",
+        "name_official": "الصحراء الغربية "
+      },
+      "es": {
+        "name": "Sahara Occidental",
+        "name_official": "Sahara Occidental"
+      },
+      "fr": {
+        "name": "Sahara occidental",
+        "name_official": "Sahara occidental"
+      },
+      "it": {
+        "name": "Sahara Occidentale",
+        "name_official": "Sahara Occidentale"
+      },
+      "ru": {
+        "name": "Западная Сахара",
+        "name_official": "Западная Сахара"
+      },
+      "zh": {
+        "name": "西撒哈拉",
+        "name_official": "西撒哈拉"
+      }
+    }
+  },
+  {
+    "id": "208",
+    "enabled": false,
+    "code3l": "FLK",
+    "code2l": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "name_official": "Falkland Islands",
+    "center": {
+      "latitude": "-51.78838251",
+      "longitude": "-59.52361100",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر فوكلاند (مالفيناس)",
+        "name_official": "جزر فوكلاند"
+      },
+      "es": {
+        "name": "Islas Malvinas (Falkland Islands)",
+        "name_official": "las Islas Malvinas"
+      },
+      "fr": {
+        "name": "Îles Malouines (Falkland Islands)",
+        "name_official": "les Îles Malouines"
+      },
+      "it": {
+        "name": "Isole Falkland (Malvine)",
+        "name_official": "Isole Falkland"
+      },
+      "ru": {
+        "name": "Фолклендские острова (Мальвинские острова)",
+        "name_official": "Фолклендские острова"
+      },
+      "zh": {
+        "name": "福克兰群岛（马尔维纳斯群岛）",
+        "name_official": "福克兰群岛"
+      }
+    }
+  },
+  {
+    "id": "209",
+    "enabled": false,
+    "code3l": "FRO",
+    "code2l": "FO",
+    "name": "Faroe Islands (Associate Member)",
+    "name_official": "Faroe Islands",
+    "center": {
+      "latitude": "61.88590482",
+      "longitude": "-6.91180400",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر فيرويه ",
+        "name_official": "جزر فيرويه "
+      },
+      "es": {
+        "name": "Islas Feroe (Miembro Asociado)",
+        "name_official": "las Islas Feroe"
+      },
+      "fr": {
+        "name": "Îles Féroé (Membre associé)",
+        "name_official": "les Îles Féroé"
+      },
+      "it": {
+        "name": "Isole Faer øer",
+        "name_official": "Isole Faer øer"
+      },
+      "ru": {
+        "name": "Фарерские Острова (ассоциированный член)",
+        "name_official": "Фарерские Острова"
+      },
+      "zh": {
+        "name": "法罗群岛 (准成员)",
+        "name_official": "法罗群岛"
+      }
+    }
+  },
+  {
+    "id": "210",
+    "enabled": false,
+    "code3l": "GUF",
+    "code2l": "GF",
+    "name": "French Guiana",
+    "name_official": "French Guiana",
+    "center": {
+      "latitude": "4.01114381",
+      "longitude": "-52.97746057",
+      "zoom": "7"
+    },
+    "names": {
+      "ar": {
+        "name": "غيانا الفرنسية",
+        "name_official": "غيانا الفرنسية"
+      },
+      "es": {
+        "name": "Guayana Francesa",
+        "name_official": "la Guayana Francesa"
+      },
+      "fr": {
+        "name": "Guyane française",
+        "name_official": "la Guyane française"
+      },
+      "it": {
+        "name": "Guyana francese",
+        "name_official": "Guyana francese"
+      },
+      "ru": {
+        "name": "Французская Гвиана",
+        "name_official": "Французская Гвиана"
+      },
+      "zh": {
+        "name": "法属圭亚那",
+        "name_official": "法属圭亚那"
+      }
+    }
+  },
+  {
+    "id": "211",
+    "enabled": false,
+    "code3l": "GGY",
+    "code2l": "GG",
+    "name": "Guernsey",
+    "name_official": "Bailiwick of Guernsey",
+    "center": {
+      "latitude": "49.46565975",
+      "longitude": "-2.58527200",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "غيرنزي",
+        "name_official": "غيرنزي"
+      },
+      "es": {
+        "name": "Guernsey",
+        "name_official": "Guernsey"
+      },
+      "fr": {
+        "name": "Guernesey",
+        "name_official": "Guernesey"
+      },
+      "it": {
+        "name": "Guernsey",
+        "name_official": "Guernsey"
+      },
+      "ru": {
+        "name": "Гернси",
+        "name_official": "Гернси"
+      },
+      "zh": {
+        "name": "根西岛",
+        "name_official": "根西岛"
+      }
+    }
+  },
+  {
+    "id": "212",
+    "enabled": false,
+    "code3l": "GIB",
+    "code2l": "GI",
+    "name": "Gibraltar",
+    "name_official": "Gibraltar",
+    "center": {
+      "latitude": "36.14864641",
+      "longitude": "-5.34404779",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "جبل طارق",
+        "name_official": "جبل طارق"
+      },
+      "es": {
+        "name": "Gibraltar",
+        "name_official": "Gibraltar"
+      },
+      "fr": {
+        "name": "Gibraltar",
+        "name_official": "Gibraltar"
+      },
+      "it": {
+        "name": "Gibilterra",
+        "name_official": "Gibilterra"
+      },
+      "ru": {
+        "name": "Гибралтар",
+        "name_official": "Гибралтар"
+      },
+      "zh": {
+        "name": "直布罗陀",
+        "name_official": "直布罗陀"
+      }
+    }
+  },
+  {
+    "id": "213",
+    "enabled": false,
+    "code3l": "GRL",
+    "code2l": "GL",
+    "name": "Greenland",
+    "name_official": "Greenland",
+    "center": {
+      "latitude": "71.42932629",
+      "longitude": "-34.38651956",
+      "zoom": "3"
+    },
+    "names": {
+      "ar": {
+        "name": "جرينلاند",
+        "name_official": "جرينلاند"
+      },
+      "es": {
+        "name": "Groenlandia",
+        "name_official": "Groenlandia"
+      },
+      "fr": {
+        "name": "Groenland",
+        "name_official": "Groenland"
+      },
+      "it": {
+        "name": "Groenlandia",
+        "name_official": "Groenlandia"
+      },
+      "ru": {
+        "name": "Гренландия",
+        "name_official": "Гренландия"
+      },
+      "zh": {
+        "name": "格陵兰",
+        "name_official": "格陵兰"
+      }
+    }
+  },
+  {
+    "id": "214",
+    "enabled": false,
+    "code3l": "GLP",
+    "code2l": "GP",
+    "name": "Guadeloupe",
+    "name_official": "Department of Guadeloupe",
+    "center": {
+      "latitude": "16.26472785",
+      "longitude": "-61.55099400",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "غوادلوب",
+        "name_official": "غوادلوب"
+      },
+      "es": {
+        "name": "Guadalupe",
+        "name_official": "Guadalupe"
+      },
+      "fr": {
+        "name": "Guadeloupe",
+        "name_official": "Guadeloupe"
+      },
+      "it": {
+        "name": "Guadalupa",
+        "name_official": "Guadalupa"
+      },
+      "ru": {
+        "name": "Гваделупа",
+        "name_official": "Гваделупа"
+      },
+      "zh": {
+        "name": "瓜德罗普",
+        "name_official": "瓜德罗普"
+      }
+    }
+  },
+  {
+    "id": "215",
+    "enabled": false,
+    "code3l": "SGS",
+    "code2l": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "name_official": "South Georgia and the South Sandwich Islands",
+    "center": {
+      "latitude": "-54.38130284",
+      "longitude": "-36.67305304",
+      "zoom": "9"
+    },
+    "names": {
+      "ar": {
+        "name": "جورجيا الجنوبية وجزر ساندويتش الجنوبية ",
+        "name_official": "جورجيا الجنوبية وجزر ساندويتش الجنوبية "
+      },
+      "es": {
+        "name": "Islas Georgias del Sur y Sandwich del Sur",
+        "name_official": "Islas Georgias del Sur y Sandwich del Sur"
+      },
+      "fr": {
+        "name": "Géorgie du Sud et les Îles Sandwich du Sud",
+        "name_official": "Géorgie du Sud et les Îles Sandwich du Sud"
+      },
+      "it": {
+        "name": "Georgia del Sud e Isole Sandwich Meridionali",
+        "name_official": "Georgia del Sud e Isole Sandwich Meridionali"
+      },
+      "ru": {
+        "name": "Южная Джорджия и Южные Сандвичевы острова",
+        "name_official": "Южная Джорджия и Южные Сандвичевы острова"
+      },
+      "zh": {
+        "name": "南乔治亚和南桑威奇群岛",
+        "name_official": "南乔治亚和南桑威奇群岛"
+      }
+    }
+  },
+  {
+    "id": "216",
+    "enabled": false,
+    "code3l": "GUM",
+    "code2l": "GU",
+    "name": "Guam",
+    "name_official": "Territory of Guam",
+    "center": {
+      "latitude": "13.44410137",
+      "longitude": "144.80747791",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "غوام",
+        "name_official": "غوام"
+      },
+      "es": {
+        "name": "Guam",
+        "name_official": "Guam"
+      },
+      "fr": {
+        "name": "Guam",
+        "name_official": "Guam"
+      },
+      "it": {
+        "name": "Guam",
+        "name_official": "Guam"
+      },
+      "ru": {
+        "name": "Гуам",
+        "name_official": "Гуам"
+      },
+      "zh": {
+        "name": "关岛",
+        "name_official": "关岛"
+      }
+    }
+  },
+  {
+    "id": "217",
+    "enabled": false,
+    "code3l": "HKG",
+    "code2l": "HK",
+    "name": "Hong Kong",
+    "name_official": "Hong Kong Special Administrative Region of the People's Republic",
+    "center": {
+      "latitude": "22.33728531",
+      "longitude": "114.14657786",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "هونغ كونغ",
+        "name_official": "هونغ كونغ"
+      },
+      "es": {
+        "name": "Hong Kong",
+        "name_official": "Hong Kong"
+      },
+      "fr": {
+        "name": "Hong Kong",
+        "name_official": "Hong Kong"
+      },
+      "it": {
+        "name": "Hong Kong",
+        "name_official": "Hong Kong"
+      },
+      "ru": {
+        "name": "Гонконг",
+        "name_official": "Гонконг"
+      },
+      "zh": {
+        "name": "香港",
+        "name_official": "香港"
+      }
+    }
+  },
+  {
+    "id": "218",
+    "enabled": false,
+    "code3l": "HMD",
+    "code2l": "HM",
+    "name": "Heard Island And McDonald Islands",
+    "name_official": "Heard and McDonald Islands",
+    "center": {
+      "latitude": "-53.08168847",
+      "longitude": "73.50415800",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "جزيرة هيرد وجزر ماكدونالد",
+        "name_official": "جزيرة هيرد وجزر ماكدونالد"
+      },
+      "es": {
+        "name": "Isla Heard e Islas McDonald",
+        "name_official": "Islas Heard e Islas McDonald"
+      },
+      "fr": {
+        "name": "Îles Heard-et-MacDonald",
+        "name_official": "Îles Heard-et-MacDonald"
+      },
+      "it": {
+        "name": "Isola Heard e Isole McDonald",
+        "name_official": "Isola Heard e Isole McDonald"
+      },
+      "ru": {
+        "name": "Остров Херд и острова Макдональд",
+        "name_official": "Остров Херд и острова Макдональд"
+      },
+      "zh": {
+        "name": "赫德岛和麦克唐纳群岛",
+        "name_official": "赫德岛和麦克唐纳群岛"
+      }
+    }
+  },
+  {
+    "id": "219",
+    "enabled": false,
+    "code3l": "IMN",
+    "code2l": "IM",
+    "name": "Isle of Man",
+    "name_official": "The Isle of Man",
+    "center": {
+      "latitude": "54.23562697",
+      "longitude": "-4.54805400",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "جزيرة مان",
+        "name_official": "جزيرة مان"
+      },
+      "es": {
+        "name": "Isla",
+        "name_official": "Isla"
+      },
+      "fr": {
+        "name": "Ile du Man",
+        "name_official": "Ile du Man"
+      },
+      "it": {
+        "name": "Isola di Man",
+        "name_official": "Isola di Man"
+      }
+    }
+  },
+  {
+    "id": "220",
+    "enabled": false,
+    "code3l": "IOT",
+    "code2l": "IO",
+    "name": "British Indian Ocean Territory",
+    "name_official": "The British Indian Ocean Territory",
+    "center": {
+      "latitude": "-7.33461519",
+      "longitude": "72.42425280",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "إقليم المحيط الهندي البريطاني",
+        "name_official": "إقليم المحيط الهندي البريطاني"
+      },
+      "es": {
+        "name": "Territorio Británico del Océano Índico",
+        "name_official": "Territorio Británico del Océano Índico"
+      },
+      "fr": {
+        "name": "Territoire britannique de l'océan Indien",
+        "name_official": "Territoire britannique de l'océan Indien"
+      },
+      "it": {
+        "name": "Territorio Britannico dell'Oceano Indiano",
+        "name_official": "Territorio Britannico dell'Oceano Indiano"
+      },
+      "ru": {
+        "name": "Британская территория в Индийском океане",
+        "name_official": "Британская территория в Индийском океане"
+      },
+      "zh": {
+        "name": "英属印度洋领地",
+        "name_official": "英属印度洋领地"
+      }
+    }
+  },
+  {
+    "id": "221",
+    "enabled": false,
+    "code3l": "JEY",
+    "code2l": "JE",
+    "name": "Jersey",
+    "name_official": "Bailiwick of Jersey",
+    "center": {
+      "latitude": "49.21440771",
+      "longitude": "-2.13124600",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "جيرسي",
+        "name_official": "جيرسي"
+      },
+      "es": {
+        "name": "Jersey",
+        "name_official": "Jersey"
+      },
+      "fr": {
+        "name": "Jersey",
+        "name_official": "Jersey"
+      },
+      "it": {
+        "name": "Jersey",
+        "name_official": "Jersey"
+      },
+      "ru": {
+        "name": "Джерси",
+        "name_official": "Джерси"
+      },
+      "zh": {
+        "name": "泽西岛",
+        "name_official": "泽西岛"
+      }
+    }
+  },
+  {
+    "id": "222",
+    "enabled": false,
+    "code3l": "CYM",
+    "code2l": "KY",
+    "name": "Cayman Islands",
+    "name_official": "The Cayman Islands",
+    "center": {
+      "latitude": "19.31322102",
+      "longitude": "-81.25459800",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر كايمان",
+        "name_official": "جزر كايمان"
+      },
+      "es": {
+        "name": "Islas Caimán",
+        "name_official": "Islas Caimán"
+      },
+      "fr": {
+        "name": "Îles Caïmans",
+        "name_official": "Îles Caïmans"
+      },
+      "it": {
+        "name": "Isole Cayman",
+        "name_official": "Isole Cayman"
+      },
+      "ru": {
+        "name": "Каймановы острова",
+        "name_official": "Каймановы острова"
+      },
+      "zh": {
+        "name": "开曼群岛",
+        "name_official": "开曼群岛"
+      }
+    }
+  },
+  {
+    "id": "223",
+    "enabled": false,
+    "code3l": "MAF",
+    "code2l": "MF",
+    "name": "Saint Martin",
+    "name_official": "Saint Martin",
+    "center": {
+      "latitude": "18.07637107",
+      "longitude": "-63.05019106",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "سانت مارتن",
+        "name_official": "سانت مارتن"
+      },
+      "es": {
+        "name": "San Martín",
+        "name_official": "San Martín"
+      },
+      "fr": {
+        "name": "Saint-Martin",
+        "name_official": "Saint-Martin"
+      },
+      "it": {
+        "name": "Saint Martin",
+        "name_official": "Saint Martin"
+      },
+      "ru": {
+        "name": "Сен-Мартен",
+        "name_official": "Сен-Мартен"
+      },
+      "zh": {
+        "name": "圣马丁",
+        "name_official": "圣马丁"
+      }
+    }
+  },
+  {
+    "id": "224",
+    "enabled": false,
+    "code3l": "MAC",
+    "code2l": "MO",
+    "name": "Macao",
+    "name_official": "Macau Special Administrative Region",
+    "center": {
+      "latitude": "22.19872287",
+      "longitude": "113.54387700",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "ماكاو",
+        "name_official": "ماكاو منطقة إدارية خاصة "
+      },
+      "es": {
+        "name": "Macao",
+        "name_official": "la Región Administrativa Especial de Macao"
+      },
+      "fr": {
+        "name": "Macao",
+        "name_official": "la Région administrative spéciale de Macao"
+      },
+      "it": {
+        "name": "Macao",
+        "name_official": "Regione amministrativa speciale di Macao"
+      },
+      "ru": {
+        "name": "Макао",
+        "name_official": "Специальный административный район Макао"
+      },
+      "zh": {
+        "name": "澳门",
+        "name_official": "澳门特别行政区"
+      }
+    }
+  },
+  {
+    "id": "225",
+    "enabled": false,
+    "code3l": "MNP",
+    "code2l": "MP",
+    "name": "Northern Mariana Islands",
+    "name_official": "Commonwealth of the Northern Mariana Islands",
+    "center": {
+      "latitude": "15.09783636",
+      "longitude": "145.67390000",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر ماريانا الشمالية",
+        "name_official": "كومنولث جزر ماريانا الشمالية "
+      },
+      "es": {
+        "name": "Islas Marianas del Norte",
+        "name_official": "el Commonwealth de las Islas Marianas del Norte"
+      },
+      "fr": {
+        "name": "Îles Mariannes du Nord",
+        "name_official": "le Commonwealth des Îles Mariannes du Nord"
+      },
+      "it": {
+        "name": "Isole Marianne Settentrionali",
+        "name_official": "Commonwealth delle Isole Marianne Settentrionali"
+      },
+      "ru": {
+        "name": "Северные Марианские острова",
+        "name_official": "Содружество Северные Марианские острова"
+      },
+      "zh": {
+        "name": "北马里亚纳群岛",
+        "name_official": "北马里亚纳群岛联邦"
+      }
+    }
+  },
+  {
+    "id": "226",
+    "enabled": false,
+    "code3l": "MTQ",
+    "code2l": "MQ",
+    "name": "Martinique",
+    "name_official": "Department of Martinique",
+    "center": {
+      "latitude": "14.64128045",
+      "longitude": "-61.02417600",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "مارتينيك",
+        "name_official": "مارتينيك قسم "
+      },
+      "es": {
+        "name": "Martinica",
+        "name_official": "el Departamento de Martinica"
+      },
+      "fr": {
+        "name": "Martinique",
+        "name_official": "le Département de la Martinique"
+      },
+      "it": {
+        "name": "Martinica",
+        "name_official": "Dipartimento di Martinica"
+      },
+      "ru": {
+        "name": "Мартиника",
+        "name_official": "Департамент Мартиника"
+      },
+      "zh": {
+        "name": "马提尼克",
+        "name_official": "马提尼克部"
+      }
+    }
+  },
+  {
+    "id": "227",
+    "enabled": false,
+    "code3l": "MSR",
+    "code2l": "MS",
+    "name": "Montserrat",
+    "name_official": "Montserrat",
+    "center": {
+      "latitude": "16.74774077",
+      "longitude": "-62.18736600",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "مونتسرات",
+        "name_official": "مونتسرات"
+      },
+      "es": {
+        "name": "Montserrat",
+        "name_official": "Montserrat"
+      },
+      "fr": {
+        "name": "Montserrat",
+        "name_official": "Montserrat"
+      },
+      "it": {
+        "name": "Montserrat",
+        "name_official": "Montserrat"
+      },
+      "ru": {
+        "name": "Монтсеррат",
+        "name_official": "Монтсеррат"
+      },
+      "zh": {
+        "name": "蒙特塞拉特",
+        "name_official": "蒙特塞拉特"
+      }
+    }
+  },
+  {
+    "id": "228",
+    "enabled": false,
+    "code3l": "NCL",
+    "code2l": "NC",
+    "name": "New Caledonia",
+    "name_official": "Territory of New Caledonia and Dependencies",
+    "center": {
+      "latitude": "-21.26104020",
+      "longitude": "165.58783760",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "كاليدونيا الجديدة",
+        "name_official": "كاليدونيا الجديدة الإقليم والتبعيات "
+      },
+      "es": {
+        "name": "Nueva Caledonia",
+        "name_official": "el Territorio de Nueva Caledonia y Dependencias"
+      },
+      "fr": {
+        "name": "Nouvelle-Calédonie",
+        "name_official": "le Territoire de la Nouvelle-Calédonie et Dépendances"
+      },
+      "it": {
+        "name": "Nuova Caledonia",
+        "name_official": "Territorio della Nuova Caledonia e dipendenze"
+      },
+      "ru": {
+        "name": "Новая Каледония",
+        "name_official": "Территория Новой Каледонии и Зависимости"
+      },
+      "zh": {
+        "name": "新喀里多尼亚",
+        "name_official": "新喀里多尼亚和附属地区"
+      }
+    }
+  },
+  {
+    "id": "229",
+    "enabled": false,
+    "code3l": "NFK",
+    "code2l": "NF",
+    "name": "Norfolk Island",
+    "name_official": "Norfolk Islands",
+    "center": {
+      "latitude": "-29.02801043",
+      "longitude": "167.94303023",
+      "zoom": "13"
+    },
+    "names": {
+      "ar": {
+        "name": "جزيرة نورفولك",
+        "name_official": "جزر نورفولك"
+      },
+      "es": {
+        "name": "Isla Norfolk",
+        "name_official": "Islas Norfolk"
+      },
+      "fr": {
+        "name": "Île Norfolk",
+        "name_official": "Îles Norfolk"
+      },
+      "it": {
+        "name": "Isola Norfolk",
+        "name_official": "Isole Norfolk"
+      },
+      "ru": {
+        "name": "Остров Норфолк",
+        "name_official": "Острова Норфолк"
+      },
+      "zh": {
+        "name": "诺福克岛",
+        "name_official": "诺福克群岛"
+      }
+    }
+  },
+  {
+    "id": "230",
+    "enabled": false,
+    "code3l": "PYF",
+    "code2l": "PF",
+    "name": "French Polynesia",
+    "name_official": "Territory of French Polynesia",
+    "center": {
+      "latitude": "-17.66243898",
+      "longitude": "-149.40683900",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "بولينيزيا الفرنسية",
+        "name_official": "بولينيزيا الفرنسية"
+      },
+      "es": {
+        "name": "Polinesia Francesa",
+        "name_official": "Territorio de la Polinesia Francesa"
+      },
+      "fr": {
+        "name": "Polynésie française",
+        "name_official": "Territoire de la Polynésie française"
+      },
+      "it": {
+        "name": "Polinesia francese",
+        "name_official": "Territorio della Polinesia francese"
+      },
+      "ru": {
+        "name": "Французская Полинезия",
+        "name_official": "Территория Французской Полинезии"
+      },
+      "zh": {
+        "name": "法属波利尼西亚",
+        "name_official": "法属波利尼西亚"
+      }
+    }
+  },
+  {
+    "id": "231",
+    "enabled": false,
+    "code3l": "SPM",
+    "code2l": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "name_official": "Saint Pierre and Miquelon",
+    "center": {
+      "latitude": "46.88469499",
+      "longitude": "-56.31590200",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "سان بيير وميكلون",
+        "name_official": "سان بيير وميكلون"
+      },
+      "es": {
+        "name": "San Pedro y Miquelón",
+        "name_official": "San Pedro y Miquelón"
+      },
+      "fr": {
+        "name": "Saint-Pierre-et-Miquelon",
+        "name_official": "Saint-Pierre-et-Miquelon"
+      },
+      "it": {
+        "name": "Saint Pierre e Miquelon",
+        "name_official": "Saint Pierre e Miquelon"
+      },
+      "ru": {
+        "name": "Сен-Пьер и Микелон",
+        "name_official": "Сен-Пьер и Микелон"
+      },
+      "zh": {
+        "name": "圣皮埃尔和密克隆",
+        "name_official": "圣皮埃尔和密克隆"
+      }
+    }
+  },
+  {
+    "id": "232",
+    "enabled": false,
+    "code3l": "PCN",
+    "code2l": "PN",
+    "name": "Pitcairn Islands",
+    "name_official": "Pitcairn Group of Islands",
+    "center": {
+      "latitude": "-24.37673925",
+      "longitude": "-128.32423730",
+      "zoom": "13"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر بيتكيرن",
+        "name_official": "مجموعة جزر بيتكيرن "
+      },
+      "es": {
+        "name": "Islas Pitcairn",
+        "name_official": "el Grupo de Islas Pitcairn"
+      },
+      "fr": {
+        "name": "Îles Pitcairn",
+        "name_official": "le Groupe d'îles Pitcairn"
+      },
+      "it": {
+        "name": "Isole Pitcairn",
+        "name_official": "il Gruppo di Isole Pitcairn"
+      },
+      "ru": {
+        "name": "Острова Питкэрн",
+        "name_official": "Группа островов Питкэрн"
+      },
+      "zh": {
+        "name": "皮特凯恩群岛",
+        "name_official": "皮特凯恩群岛"
+      }
+    }
+  },
+  {
+    "id": "233",
+    "enabled": false,
+    "code3l": "PRI",
+    "code2l": "PR",
+    "name": "Puerto Rico",
+    "name_official": "Commonwealth of Puerto Rico",
+    "center": {
+      "latitude": "18.21963053",
+      "longitude": "-66.59015100",
+      "zoom": "9"
+    },
+    "names": {
+      "ar": {
+        "name": "بورتوريكو",
+        "name_official": "كومنولث بورتوريكو "
+      },
+      "es": {
+        "name": "Puerto Rico",
+        "name_official": "el Commonwealth de Puerto Rico"
+      },
+      "fr": {
+        "name": "Porto Rico",
+        "name_official": "le Commonwealth de Porto Rico"
+      },
+      "it": {
+        "name": "Porto Rico",
+        "name_official": "Commonwealth di Porto Rico"
+      },
+      "ru": {
+        "name": "Пуэрто-Рико",
+        "name_official": "Содружество Пуэрто-Рико"
+      },
+      "zh": {
+        "name": "波多黎各",
+        "name_official": "波多黎各自由邦"
+      }
+    }
+  },
+  {
+    "id": "234",
+    "enabled": false,
+    "code3l": "PSE",
+    "code2l": "PS",
+    "name": "Palestinian Territory, Occupied",
+    "name_official": "Occupied Palestinian Territory",
+    "center": {
+      "latitude": "32.26367103",
+      "longitude": "35.21936714",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "الأراضي الفلسطينية المحتلة",
+        "name_official": "الأراضي الفلسطينية المحتلة"
+      },
+      "es": {
+        "name": "Territorio Palestino Ocupado",
+        "name_official": "Territorio Palestino Ocupado"
+      },
+      "fr": {
+        "name": "Territoire palestinien occupé",
+        "name_official": "Territoire palestinien occupé"
+      },
+      "it": {
+        "name": "Territorio Palestinese Occupato",
+        "name_official": "Territorio Palestinese Occupato"
+      },
+      "ru": {
+        "name": "Оккупированная территория Палестины",
+        "name_official": "Оккупированная территория Палестины"
+      },
+      "zh": {
+        "name": "巴勒斯坦领土",
+        "name_official": "巴勒斯坦领土"
+      }
+    }
+  },
+  {
+    "id": "235",
+    "enabled": false,
+    "code3l": "REU",
+    "code2l": "RE",
+    "name": "Réunion",
+    "name_official": "Department of Reunion",
+    "center": {
+      "latitude": "-21.11480084",
+      "longitude": "55.53638200",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "ريونيون",
+        "name_official": "قسم ريونيون "
+      },
+      "es": {
+        "name": "Reunión",
+        "name_official": "el Departamento de Reunión"
+      },
+      "fr": {
+        "name": "Réunion",
+        "name_official": "le Département de la Réunion"
+      },
+      "it": {
+        "name": "Riunione",
+        "name_official": "Dipartimento di Riunione"
+      },
+      "ru": {
+        "name": "Реюньон",
+        "name_official": "Департамент Реюньон"
+      },
+      "zh": {
+        "name": "留尼汪",
+        "name_official": "留尼汪部门"
+      }
+    }
+  },
+  {
+    "id": "236",
+    "enabled": false,
+    "code3l": "SHN",
+    "code2l": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "name_official": "Saint Helena, Ascension and Tristan da Cunha",
+    "center": {
+      "latitude": "-37.10521846",
+      "longitude": "-12.27768580",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "سانت هيلينا وأسنسيون وتريستان دا كونا ",
+        "name_official": "سانت هيلينا وأسنسيون وتريستان دا كونا "
+      },
+      "es": {
+        "name": "Santa Elena, Ascensión y Tristán de Acuña",
+        "name_official": "Santa Elena, Ascensión y Tristán de Acuña"
+      },
+      "fr": {
+        "name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+        "name_official": "Sainte-Hélène, Ascension et Tristan da Cunha"
+      },
+      "it": {
+        "name": "Sant'Elena, Ascensione e Tristan da Cunha",
+        "name_official": "Sant'Elena, Ascensione e Tristan da Cunha"
+      },
+      "ru": {
+        "name": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+        "name_official": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+      },
+      "zh": {
+        "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "name_official": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+      }
+    }
+  },
+  {
+    "id": "237",
+    "enabled": false,
+    "code3l": "SJM",
+    "code2l": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "name_official": "Svalbard and Jan Mayen",
+    "center": {
+      "latitude": "77.92215764",
+      "longitude": "18.99010622",
+      "zoom": "4"
+    },
+    "names": {
+      "ar": {
+        "name": "سفالبارد ويان ماين ",
+        "name_official": "سفالبارد ويان ماين "
+      },
+      "es": {
+        "name": "Svalbard y Jan Mayen",
+        "name_official": "Svalbard y Jan Mayen"
+      },
+      "fr": {
+        "name": "Svalbard et Jan Mayen",
+        "name_official": "Svalbard et Jan Mayen"
+      },
+      "it": {
+        "name": "Svalbard e Jan Mayen",
+        "name_official": "Svalbard e Jan Mayen"
+      },
+      "ru": {
+        "name": "Шпицберген и Ян-Майен",
+        "name_official": "Шпицберген и Ян-Майен"
+      },
+      "zh": {
+        "name": "斯瓦尔巴和扬马延",
+        "name_official": "斯瓦尔巴和扬马延"
+      }
+    }
+  },
+  {
+    "id": "238",
+    "enabled": false,
+    "code3l": "SXM",
+    "code2l": "SX",
+    "name": "Sint Maarten",
+    "name_official": "Sint Maarten",
+    "center": {
+      "latitude": "18.04433885",
+      "longitude": "-63.05616320",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "سانت مارتن",
+        "name_official": "سانت مارتن"
+      },
+      "es": {
+        "name": "San Martín",
+        "name_official": "San Martín"
+      },
+      "fr": {
+        "name": "Saint-Martin",
+        "name_official": "Saint-Martin"
+      },
+      "it": {
+        "name": "Saint Martin",
+        "name_official": "Saint Martin"
+      },
+      "ru": {
+        "name": "Сен-Мартен",
+        "name_official": "Сен-Мартен"
+      },
+      "zh": {
+        "name": "圣马丁",
+        "name_official": "圣马丁"
+      }
+    }
+  },
+  {
+    "id": "239",
+    "enabled": false,
+    "code3l": "TCA",
+    "code2l": "TC",
+    "name": "Turks and Caicos Islands",
+    "name_official": "Turks and Caicos Islands",
+    "center": {
+      "latitude": "21.72816866",
+      "longitude": "-71.79654471",
+      "zoom": "9"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر تركس وكايكوس ",
+        "name_official": "جزر تركس وكايكوس "
+      },
+      "es": {
+        "name": "Islas Turcas y Caicos",
+        "name_official": "Islas Turcas y Caicos"
+      },
+      "fr": {
+        "name": "Îles Turques-et-Caïques",
+        "name_official": "Îles Turques-et-Caïques"
+      },
+      "it": {
+        "name": "Isole Turks e Caicos",
+        "name_official": "Isole Turks e Caicos"
+      },
+      "ru": {
+        "name": "Теркс и Кайкос",
+        "name_official": "Теркс и Кайкос"
+      },
+      "zh": {
+        "name": "特克斯和凯科斯群岛",
+        "name_official": "特克斯和凯科斯群岛"
+      }
+    }
+  },
+  {
+    "id": "240",
+    "enabled": false,
+    "code3l": "ATF",
+    "code2l": "TF",
+    "name": "French Southern and Antarctic Lands",
+    "name_official": "Territory of the French Southern and Antarctic Lands",
+    "center": {
+      "latitude": "-49.27235903",
+      "longitude": "69.34856300",
+      "zoom": "8"
+    },
+    "names": {
+      "ar": {
+        "name": "الأراضي الجنوبية الفرنسية والأراضي القطبية الفرنسية",
+        "name_official": "الأراضي الجنوبية الفرنسية والأراضي القطبية الفرنسية"
+      },
+      "es": {
+        "name": "Tierras Australes y Antárticas Francesas",
+        "name_official": "Territorio de las Tierras Australes y Antárticas Francesas"
+      },
+      "fr": {
+        "name": "Terres australes et antarctiques françaises",
+        "name_official": "Territoire des Terres australes et antarctiques françaises"
+      },
+      "it": {
+        "name": "Terre australi e antartiche francesi",
+        "name_official": "Territorio delle Terre australi e antartiche francesi"
+      },
+      "ru": {
+        "name": "Французские Южные и Антарктические земли",
+        "name_official": "Территория Французских Южных и Антарктических земель"
+      },
+      "zh": {
+        "name": "法属南部和南极领地",
+        "name_official": "法属南部和南极领地"
+      }
+    }
+  },
+  {
+    "id": "241",
+    "enabled": false,
+    "code3l": "TKL",
+    "code2l": "TK",
+    "name": "Tokelau (Associate Member)",
+    "name_official": "Tokelau",
+    "center": {
+      "latitude": "-9.16682644",
+      "longitude": "-171.83981693",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "منتسب عضو - توكيلاو ",
+        "name_official": "توكيلاو"
+      },
+      "es": {
+        "name": "Tokelau (Miembro Asociado)",
+        "name_official": "Tokelau"
+      },
+      "fr": {
+        "name": "Tokélaou (Membre associé)",
+        "name_official": "les Tokélaou"
+      },
+      "it": {
+        "name": "Tokelau (Membro associato)",
+        "name_official": "Tokelau"
+      },
+      "ru": {
+        "name": "Токелау (ассоциированный член)",
+        "name_official": "Токелау"
+      },
+      "zh": {
+        "name": "托克劳（准成员）",
+        "name_official": "托克劳"
+      }
+    }
+  },
+  {
+    "id": "242",
+    "enabled": false,
+    "code3l": "TWN",
+    "code2l": "TW",
+    "name": "Taiwan",
+    "name_official": "Republic of China",
+    "center": {
+      "latitude": "23.71891402",
+      "longitude": "121.10884043",
+      "zoom": "7"
+    },
+    "names": {
+      "ar": {
+        "name": "تايوان",
+        "name_official": "جمهورية الصين "
+      },
+      "es": {
+        "name": "Taiwán",
+        "name_official": "la República de China"
+      },
+      "fr": {
+        "name": "Taïwan",
+        "name_official": "la République de Chine"
+      },
+      "it": {
+        "name": "Taiwan",
+        "name_official": "Repubblica di Cina"
+      },
+      "ru": {
+        "name": "Тайвань",
+        "name_official": "Китайская Республика"
+      },
+      "zh": {
+        "name": "台湾",
+        "name_official": "中华民国"
+      }
+    }
+  },
+  {
+    "id": "243",
+    "enabled": false,
+    "code3l": "UMI",
+    "code2l": "UM",
+    "name": "United States Minor Outlying Islands",
+    "name_official": "United States Minor Outlying Islands",
+    "center": {
+      "latitude": "19.46305694",
+      "longitude": "177.98631092",
+      "zoom": "5"
+    },
+    "names": {
+      "ar": {
+        "name": "الولايات المتحدة البعيدة الصغيرة الجزر ",
+        "name_official": "الولايات المتحدة البعيدة الصغيرة الجزر "
+      },
+      "es": {
+        "name": "Islas Ultramarinas Menores de Estados Unidos",
+        "name_official": "Islas Ultramarinas Menores de Estados Unidos"
+      },
+      "fr": {
+        "name": "Îles mineures éloignées des États-Unis",
+        "name_official": "Îles mineures éloignées des États-Unis"
+      },
+      "it": {
+        "name": "Isole minori esterne degli Stati Uniti",
+        "name_official": "Isole minori esterne degli Stati Uniti"
+      },
+      "ru": {
+        "name": "Внешние малые острова США",
+        "name_official": "Внешние малые острова США"
+      },
+      "zh": {
+        "name": "美国本土外小岛屿",
+        "name_official": "美国本土外小岛屿"
+      }
+    }
+  },
+  {
+    "id": "244",
+    "enabled": false,
+    "code3l": "USA",
+    "code2l": "US",
+    "name": "United States of America",
+    "name_official": "United States of America",
+    "center": {
+      "latitude": "37.66895362",
+      "longitude": "-102.39256450",
+      "zoom": "4"
+    },
+    "names": {
+      "ar": {
+        "name": "الأمريكية المتحدة الولايات ",
+        "name_official": "الأمريكية المتحدة الولايات "
+      },
+      "es": {
+        "name": "Estados Unidos de América",
+        "name_official": "los Estados Unidos de América"
+      },
+      "fr": {
+        "name": "États-Unis d'Amérique",
+        "name_official": "les États-Unis d'Amérique"
+      },
+      "it": {
+        "name": "Stati Uniti d`America",
+        "name_official": "Stati Uniti d'America"
+      },
+      "ru": {
+        "name": "Соединенные Штаты Америки",
+        "name_official": "Соединенные Штаты Америки"
+      },
+      "zh": {
+        "name": "美 国",
+        "name_official": "美利坚合众国"
+      }
+    }
+  },
+  {
+    "id": "245",
+    "enabled": false,
+    "code3l": "VAT",
+    "code2l": "VA",
+    "name": "Holy See",
+    "name_official": "Holy see",
+    "center": {
+      "latitude": "41.90377810",
+      "longitude": "12.45340142",
+      "zoom": "16"
+    },
+    "names": {
+      "ar": {
+        "name": "الكرسي الرسولي ",
+        "name_official": "الكرسي الرسولي "
+      },
+      "es": {
+        "name": "Santa Sede",
+        "name_official": "la Santa Sede"
+      },
+      "fr": {
+        "name": "Saint-Siège",
+        "name_official": "le Saint-Siège"
+      },
+      "it": {
+        "name": "Santa Sede",
+        "name_official": "Santa Sede"
+      },
+      "ru": {
+        "name": "Святой Престол",
+        "name_official": "Святой Престол"
+      },
+      "zh": {
+        "name": "教廷",
+        "name_official": "教廷"
+      }
+    }
+  },
+  {
+    "id": "246",
+    "enabled": false,
+    "code3l": "VGB",
+    "code2l": "VG",
+    "name": "Virgin Islands",
+    "name_official": "British Virgin Islands",
+    "center": {
+      "latitude": "17.67004187",
+      "longitude": "-64.77411010",
+      "zoom": "10"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر العذراء البريطانية ",
+        "name_official": "جزر العذراء البريطانية "
+      },
+      "es": {
+        "name": "Islas Vírgenes",
+        "name_official": "las Islas Vírgenes Británicas"
+      },
+      "fr": {
+        "name": "Îles Vierges",
+        "name_official": "les Îles Vierges britanniques"
+      },
+      "it": {
+        "name": "Isole Vergini",
+        "name_official": "Isole Vergini britanniche"
+      },
+      "ru": {
+        "name": "Виргинские острова",
+        "name_official": "Британские Виргинские острова"
+      },
+      "zh": {
+        "name": "维尔京群岛",
+        "name_official": "英属维尔京群岛"
+      }
+    }
+  },
+  {
+    "id": "247",
+    "enabled": false,
+    "code3l": "VIR",
+    "code2l": "VI",
+    "name": "United States Virgin Islands",
+    "name_official": "Virgin Islands of the United States",
+    "center": {
+      "latitude": "18.01000938",
+      "longitude": "-64.77411410",
+      "zoom": "9"
+    },
+    "names": {
+      "ar": {
+        "name": "جزر العذراء الأمريكية ",
+        "name_official": "جزر العذراء الأمريكية "
+      },
+      "es": {
+        "name": "Islas Vírgenes de los Estados Unidos",
+        "name_official": "Islas Vírgenes de los Estados Unidos"
+      },
+      "fr": {
+        "name": "Îles Vierges des États-Unis",
+        "name_official": "Îles Vierges des États-Unis"
+      },
+      "it": {
+        "name": "Isole Vergini degli Stati Uniti",
+        "name_official": "Isole Vergini degli Stati Uniti"
+      },
+      "ru": {
+        "name": "Виргинские острова США",
+        "name_official": "Виргинские острова США"
+      },
+      "zh": {
+        "name": "美国维尔京群岛",
+        "name_official": "美国维尔京群岛"
+      }
+    }
+  },
+  {
+    "id": "248",
+    "enabled": false,
+    "code3l": "WLF",
+    "code2l": "WF",
+    "name": "Wallis and Futuna",
+    "name_official": "Territory of the Wallis and Futuna Islands",
+    "center": {
+      "latitude": "-14.29378486",
+      "longitude": "-178.11649800",
+      "zoom": "12"
+    },
+    "names": {
+      "ar": {
+        "name": "والس وفوتونا ",
+        "name_official": "والس وفوتونا "
+      },
+      "es": {
+        "name": "Wallis y Futuna",
+        "name_official": "el Territorio de las Islas Wallis y Futuna"
+      },
+      "fr": {
+        "name": "Wallis et Futuna",
+        "name_official": "le Territoire des îles Wallis et Futuna"
+      },
+      "it": {
+        "name": "Wallis e Futuna",
+        "name_official": "Territorio delle Isole Wallis e Futuna"
+      },
+      "ru": {
+        "name": "Уоллис и Футуна",
+        "name_official": "Территория островов Уоллис и Футуна"
+      },
+      "zh": {
+        "name": "瓦利斯和富图纳",
+        "name_official": "瓦利斯和富图纳群岛领地"
+      }
+    }
+  },
+  {
+    "id": "249",
+    "enabled": false,
+    "code3l": "MYT",
+    "code2l": "YT",
+    "name": "Mayotte",
+    "name_official": "Overseas Department of Mayotte",
+    "center": {
+      "latitude": "-12.82744522",
+      "longitude": "45.16624200",
+      "zoom": "11"
+    },
+    "names": {
+      "ar": {
+        "name": "مايوت",
+        "name_official": "مايوت قسم "
+      },
+      "es": {
+        "name": "Mayotte",
+        "name_official": "el Departamento de Mayotte"
+      },
+      "fr": {
+        "name": "Mayotte",
+        "name_official": "le Département de Mayotte"
+      },
+      "it": {
+        "name": "Mayotte",
+        "name_official": "Dipartimento di Mayotte"
+      },
+      "ru": {
+        "name": "Майотта",
+        "name_official": "Заморское отделение Майотта"
+      },
+      "zh": {
+        "name": "马约特",
+        "name_official": "马约特部"
+      }
+    }
+  },
+  {
+    "id": "250",
+    "enabled": false,
+    "code3l": "SSD",
+    "code2l": "SS",
+    "name": "South Sudan",
+    "name_official": "Republic of South Sudan",
+    "center": {
+      "latitude": "7.91320803",
+      "longitude": "30.15342434",
+      "zoom": "6"
+    },
+    "names": {
+      "ar": {
+        "name": "السودان جنوب ",
+        "name_official": "السودان جنوب جمهورية "
+      },
+      "es": {
+        "name": "Sudán del Sur",
+        "name_official": "la República de Sudán del Sur"
+      },
+      "fr": {
+        "name": "Soudan du Sud",
+        "name_official": "République du Soudan du Sud"
+      },
+      "it": {
+        "name": "Sud Sudan",
+        "name_official": "Repubblica del Sud Sudan"
+      },
+      "ru": {
+        "name": "Южный Судан",
+        "name_official": "Республика Южный Судан"
+      },
+      "zh": {
+        "name": "南苏丹",
+        "name_official": "南苏丹共和国"
       }
     }
   }
