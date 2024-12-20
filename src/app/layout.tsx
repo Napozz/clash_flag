@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Header from "@/components/Header";
+import { LanguageProvider } from "@/contexts/LanguageContext";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -26,9 +28,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`flex flex-col justify-between min-h-screen  ${geistSans.variable} ${geistMono.variable} antialiased `}
       >
-        {children}
+        <LanguageProvider>
+          <Header />
+          {children}
+        </LanguageProvider>
+        <footer className="text-center p-2">© 2024 Clash Flags </footer>
       </body>
     </html>
   );

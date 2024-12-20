@@ -1,44 +1,22 @@
-import { useState } from "react";
-import Flag4 from "./Flag4";
-import FlagGame from "./FlagGame";
+import Link from "next/link";
 
-interface FlagMenuProps {
-  flags: {
-    name: string;
-    code2l: string;
-    names: { [key: string]: { name: string; name_official: string } };
-  }[];
-  language: string;
-}
-
-export default function FlagMenu({ flags, language }: FlagMenuProps) {
-  const [selectedGame, setSelectedGame] = useState<"Flag4" | "FlagGame" | null>(
-    null
-  );
-
+export default function FlagMenu() {
   return (
     <div className="flex flex-col items-center">
-      {selectedGame === null ? (
-        <div className="flex flex-col items-center space-y-4">
-          <h2 className="text-2xl font-bold mb-4">Choose a Game</h2>
-          <button
-            onClick={() => setSelectedGame("Flag4")}
-            className="bg-blue-500 text-white p-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300 w-64"
-          >
-            Game with Four Choices
-          </button>
-          <button
-            onClick={() => setSelectedGame("FlagGame")}
-            className="bg-green-500 text-white p-4 rounded-lg shadow-md hover:bg-green-600 transition duration-300 w-64"
-          >
-            Guess the Flag
-          </button>
-        </div>
-      ) : selectedGame === "Flag4" ? (
-        <Flag4 flags={flags} language={language} />
-      ) : (
-        <FlagGame flags={flags} language={language} />
-      )}
+      <div className="flex flex-col items-center space-y-4">
+        <h2 className="text-2xl font-bold mb-4">Choose a Game</h2>
+        <ul className="m-2 text-center">
+          <li className="bg-blue-500 text-white p-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300 w-64 m-2">
+            <Link href="/game/guess">Guess the flag</Link>
+          </li>
+          <li className="bg-green-500 text-white p-4 rounded-lg shadow-md hover:bg-green-600 transition duration-300 w-64 m-2 ">
+            <Link href="/game/countries4">One flag Four countries</Link>
+          </li>
+          <li className="bg-violet-500 text-white p-4 rounded-lg shadow-md hover:bg-green-600 transition duration-300 w-64 m-2">
+            <Link href="/game/flags4">One country four flags</Link>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }

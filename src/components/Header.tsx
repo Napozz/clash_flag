@@ -1,4 +1,5 @@
-import React from "react";
+"use client";
+
 import {
   Select,
   SelectContent,
@@ -6,8 +7,11 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { useLanguage } from "@/contexts/LanguageContext";
 
-const Header: React.FC<HeaderProps> = ({ language, setLanguage }) => {
+function Header() {
+  const { language, setLanguage } = useLanguage();
+
   return (
     <header className="w-full flex items-center justify-between p-4">
       <div className="flex-1 text-center">
@@ -31,6 +35,6 @@ const Header: React.FC<HeaderProps> = ({ language, setLanguage }) => {
       </Select>
     </header>
   );
-};
+}
 
 export default Header;

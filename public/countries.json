@@ -730,8 +730,8 @@
         "capital": "Minsk"
       },
       "fr": {
-        "name": "Bélarus",
-        "name_official": "la République du Bélarus",
+        "name": "Biolorussie",
+        "name_official": "la République de Biolorussie",
         "capital": "Minsk"
       },
       "it": {
@@ -1085,10 +1085,10 @@
     "enabled": false,
     "code3l": "BRN",
     "code2l": "BN",
-    "name": "Brunei Darussalam",
+    "name": "Brunei",
     "name_official": "Brunei Darussalam",
     "capital": "Bandar Seri Begawan",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "4.54189364",
       "longitude": "114.60132823",
@@ -1101,12 +1101,12 @@
         "capital": "بندر سري بيجاوان"
       },
       "es": {
-        "name": "Brunei Darussalam",
+        "name": "Brunei",
         "name_official": "Brunei Darussalam",
         "capital": "Bandar Seri Begawan"
       },
       "fr": {
-        "name": "Brunéi Darussalam",
+        "name": "Brunéi",
         "name_official": "le Brunéi Darussalam",
         "capital": "Bandar Seri Begawan"
       },
@@ -1116,7 +1116,7 @@
         "capital": "Bandar Seri Begawan"
       },
       "ru": {
-        "name": "Бруней-Даруссалам",
+        "name": "Бруней",
         "name_official": "Бруней-Даруссалам",
         "capital": "Бандар-Сери-Бегаван"
       },
@@ -1464,7 +1464,7 @@
     "name": "Central African Republic",
     "name_official": "Central African Republic",
     "capital": "Bangui",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "6.82541830",
       "longitude": "20.64281514",
@@ -1934,7 +1934,7 @@
     "name": "Cyprus",
     "name_official": "Republic of Cyprus",
     "capital": "Nicosia",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "35.12450768",
       "longitude": "33.42986100",
@@ -2122,7 +2122,7 @@
     "name": "Djibouti",
     "name_official": "Republic of Djibouti",
     "capital": "Djibouti",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "11.75959257",
       "longitude": "42.65344839",
@@ -2169,7 +2169,7 @@
     "name": "Dominica",
     "name_official": "Commonwealth of Dominica",
     "capital": "Roseau",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "15.41473963",
       "longitude": "-61.37097400",
@@ -2404,7 +2404,7 @@
     "name": "Equatorial Guinea",
     "name_official": "Republic of Equatorial Guinea",
     "capital": "Malabo",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "1.65068442",
       "longitude": "10.26789700",
@@ -2780,7 +2780,7 @@
     "name": "Gambia",
     "name_official": "Islamic Republic of the Gambia",
     "capital": "Banjul",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "13.15921146",
       "longitude": "-15.35956748",
@@ -3720,7 +3720,7 @@
     "name": "Jamaica",
     "name_official": "Jamaica",
     "capital": "Kingston",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "18.10838487",
       "longitude": "-77.29750600",
@@ -4754,7 +4754,7 @@
     "name": "Malta",
     "name_official": "Republic of Malta",
     "capital": "Valletta",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "35.89706403",
       "longitude": "14.43687877",
@@ -4989,7 +4989,7 @@
     "name": "Monaco",
     "name_official": "Principality of Monaco",
     "capital": "Monaco",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "43.70463620",
       "longitude": "6.75444978",
@@ -5083,7 +5083,7 @@
     "name": "Montenegro",
     "name_official": "Montenegro",
     "capital": "Podgorica",
-    "difficulty": "3",
+    "difficulty": "2",
     "center": {
       "latitude": "42.71699590",
       "longitude": "19.09699321",
@@ -8900,7 +8900,7 @@
         "capital": "Chisinau"
       },
       "fr": {
-        "name": "Moldovie",
+        "name": "Moldavie",
         "name_official": "la République de Moldovie",
         "capital": "Chisinau"
       },

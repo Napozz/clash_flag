@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import useIsClient from "@/hooks/isClientHook";
 
-interface Flag4Props {
+interface Country4Props {
   flags: {
     name: string;
     code2l: string;
@@ -13,12 +13,12 @@ interface Flag4Props {
   language: string;
 }
 
-function Flag4({ flags, language }: Flag4Props) {
+function Country4({ flags, language }: Country4Props) {
   const [currentFlagIndex, setCurrentFlagIndex] = useState<number>(() =>
     Math.floor(Math.random() * flags.length)
   );
   const [shownFlags, setShownFlags] = useState<number[]>([currentFlagIndex]);
-  const [options, setOptions] = useState<string[]>([]);
+  const [options, setOptions] = useState<number[]>([]);
   const [lives, setLives] = useState<number>(3);
   const [score, setScore] = useState<number>(0);
 
@@ -37,27 +37,19 @@ function Flag4({ flags, language }: Flag4Props) {
   };
 
   const generateOptions = () => {
-    const correctName =
-      language === "en"
-        ? flags[currentFlagIndex].name
-        : flags[currentFlagIndex].names[language]?.name;
-    const optionsSet = new Set<string>();
-    optionsSet.add(correctName || "");
+    const optionsSet = new Set<number>();
+    optionsSet.add(currentFlagIndex);
 
     while (optionsSet.size < 4) {
       const randomIndex = Math.floor(Math.random() * flags.length);
-      const randomName =
-        language === "en"
-          ? flags[randomIndex].name
-          : flags[randomIndex].names[language]?.name;
-      optionsSet.add(randomName || "");
+      optionsSet.add(randomIndex);
     }
 
     const optionsArray = Array.from(optionsSet);
     setOptions(shuffleArray(optionsArray));
   };
 
-  const shuffleArray = (array: string[]) => {
+  const shuffleArray = (array: number[]) => {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [array[i], array[j]] = [array[j], array[i]];
@@ -92,21 +84,26 @@ function Flag4({ flags, language }: Flag4Props) {
     <div className="flex flex-col items-center">
       {isClient && (
         <>
-          <div className="relative w-64 h-40 mb-4 border-4 border-gray-300 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105">
-            <Image
-              src={`/flags/${flags[currentFlagIndex].code2l}.svg`}
-              alt="Flag"
-              fill={true}
-            />
-          </div>
+          <h2 className="text-2xl font-bold mb-4">
+            {language === "en"
+              ? flags[currentFlagIndex].name
+              : flags[currentFlagIndex].names[language]?.name}
+          </h2>
           <div className="grid grid-cols-2 gap-4 mb-4">
             {options.map((option, index) => (
               <button
                 key={index}
-                onClick={() => handleGuess(option)}
-                className="bg-blue-500 text-white p-2 rounded-lg shadow-md hover:bg-blue-600 transition duration-300"
+                onClick={() =>
+                  handleGuess(flags[currentFlagIndex].names[language]?.name)
+                }
+                className="relative w-32 h-20 border-4 border-gray-300 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105"
               >
-                {option}
+                <Image
+                  src={`/flags/${flags[option].code2l}.svg`}
+                  alt="Flag"
+                  layout="fill"
+                  objectFit="cover"
+                />
               </button>
             ))}
           </div>
@@ -126,4 +123,4 @@ function Flag4({ flags, language }: Flag4Props) {
   );
 }
 
-export default Flag4;
+export default Country4;
