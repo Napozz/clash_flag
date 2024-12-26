@@ -10172,53 +10172,6 @@
     }
   },
   {
-    "id": "223",
-    "enabled": false,
-    "code3l": "MAF",
-    "code2l": "MF",
-    "name": "Saint Martin",
-    "name_official": "Saint Martin",
-    "capital": "Marigot",
-    "difficulty": "3",
-    "center": {
-      "latitude": "18.07637107",
-      "longitude": "-63.05019106",
-      "zoom": "12"
-    },
-    "names": {
-      "ar": {
-        "name": "سانت مارتن",
-        "name_official": "سانت مارتن",
-        "capital": "ماريغو"
-      },
-      "es": {
-        "name": "San Martín",
-        "name_official": "San Martín",
-        "capital": "Marigot"
-      },
-      "fr": {
-        "name": "Saint-Martin",
-        "name_official": "Saint-Martin",
-        "capital": "Marigot"
-      },
-      "it": {
-        "name": "Saint Martin",
-        "name_official": "Saint Martin",
-        "capital": "Marigot"
-      },
-      "ru": {
-        "name": "Сен-Мартен",
-        "name_official": "Сен-Мартен",
-        "capital": "Мариго"
-      },
-      "zh": {
-        "name": "圣马丁",
-        "name_official": "圣马丁",
-        "capital": "马里戈"
-      }
-    }
-  },
-  {
     "id": "224",
     "enabled": false,
     "code3l": "MAC",
