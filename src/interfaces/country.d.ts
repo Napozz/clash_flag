@@ -5,6 +5,7 @@ interface Country {
   code2l: string;
   name: string;
   name_official: string;
+  difficulty: string;
   center: {
     latitude: string;
     longitude: string;

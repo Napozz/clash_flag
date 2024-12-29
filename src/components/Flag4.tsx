@@ -13,6 +13,19 @@ interface Flag4Props {
   language: string;
 }
 
+const PixelHeart = ({ filled }: { filled: boolean }) => (
+  <svg
+    viewBox="0 0 128 128"
+    className={`size-16 -ml-4 ${filled ? "text-red-500" : "text-gray-800"}`}
+  >
+    <path
+      d="M64 112L16 64C0 48 0 24 16 8C32 -8 56 -8 72 8L64 16L56 8C40 -8 16 -8 0 8C-16 24 -16 48 0 64L48 112L64 96L80 112L128 64C144 48 144 24 128 8C112 -8 88 -8 72 8L64 16L56 8"
+      fill="currentColor"
+      transform="translate(64 64) scale(0.35) translate(-64 -64)"
+    />
+  </svg>
+);
+
 function Flag4({ flags, language }: Flag4Props) {
   const [currentFlagIndex, setCurrentFlagIndex] = useState<number>(() =>
     Math.floor(Math.random() * flags.length)
@@ -92,7 +105,7 @@ function Flag4({ flags, language }: Flag4Props) {
     <div className="flex flex-col items-center">
       {isClient && (
         <>
-          <div className="relative w-64 h-40 mb-4 border-4 border-gray-300 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105">
+          <div className="relative w-64 h-40 mb-4 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105">
             <Image
               src={`/flags/${flags[currentFlagIndex].code2l}.svg`}
               alt="Flag"
@@ -111,9 +124,11 @@ function Flag4({ flags, language }: Flag4Props) {
             ))}
           </div>
           <div className="mt-4 flex space-x-4">
-            <div className="flex items-center space-x-2">
-              <span className="text-lg font-semibold">Lives:</span>
-              <span className="text-lg font-bold text-red-500">{lives}</span>
+            {/* Affichage des cœurs */}
+            <div className="flex items-center">
+              {[...Array(3)].map((_, index) => (
+                <PixelHeart key={index} filled={index < lives} />
+              ))}
             </div>
             <div className="flex items-center space-x-2">
               <span className="text-lg font-semibold">Score:</span>

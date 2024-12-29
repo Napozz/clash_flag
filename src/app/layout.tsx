@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Clash flags",
   description: "alol 1VS1 world flags",
-  icons: "/flags/FR.svg",
+  icons: "/world.svg",
 };
 
 export default function RootLayout({
@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`flex flex-col justify-between min-h-screen  ${geistSans.variable} ${geistMono.variable} antialiased `}
+        className={`flex flex-col justify-between min-h-screen bg-gradient-to-b from-sky-500 to-purple-600 ${geistSans.variable} ${geistMono.variable} antialiased `}
       >
         <LanguageProvider>
           <Header />

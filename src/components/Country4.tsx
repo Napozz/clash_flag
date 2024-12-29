@@ -93,10 +93,8 @@ function Country4({ flags, language }: Country4Props) {
             {options.map((option, index) => (
               <button
                 key={index}
-                onClick={() =>
-                  handleGuess(flags[currentFlagIndex].names[language]?.name)
-                }
-                className="relative w-32 h-20 border-4 border-gray-300 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105"
+                onClick={() => handleGuess(flags[option].names[language]?.name)}
+                className="relative w-32 h-20 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105"
               >
                 <Image
                   src={`/flags/${flags[option].code2l}.svg`}

@@ -54,7 +54,7 @@ function FlagGame({ flags, language }: FlagGameProps) {
     <div className="flex flex-col items-center">
       {isClient && (
         <>
-          <div className="relative w-64 h-40 mb-4 border-4 border-gray-300 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105">
+          <div className="relative w-64 h-40 mb-4 rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105">
             <Image
               src={`/flags/${flags[currentFlagIndex].code2l}.svg`}
               alt="Flag"

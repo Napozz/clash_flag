@@ -7,6 +7,7 @@ import FlagGame from "@/components/FlagGame";
 import { notFound } from "next/navigation";
 import { useLanguage } from "@/contexts/LanguageContext";
 import countries from "../../../../public/countries.json";
+import { useSearchParams } from "next/navigation";
 
 export default function GamePage({
   params,
@@ -15,13 +16,21 @@ export default function GamePage({
 }) {
   const { id } = use(params);
 
+  const searchParams = useSearchParams();
+  const difficulty = searchParams.get("difficulty") || "all";
+
   const { language } = useLanguage();
 
-  const flags = (countries as Country[]).map((country) => ({
-    name: country.name,
-    code2l: country.code2l,
-    names: country.names,
-  }));
+  const flags = (countries as Country[])
+    .filter(
+      (country) => difficulty === "all" || country.difficulty === difficulty
+    )
+    .map((country) => ({
+      name: country.name,
+      code2l: country.code2l,
+      names: country.names,
+      difficulty: country.difficulty,
+    }));
 
   const renderGame = () => {
     switch (id) {
