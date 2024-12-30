@@ -1,0 +1,16 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install dependencies only when needed
+COPY package*.json ./
+RUN npm install
+
+# Copy the rest of the application
+COPY . .
+
+# Expose development port
+EXPOSE 3000
+
+# Start development server with turbopack
+CMD ["npm", "run", "dev"]
