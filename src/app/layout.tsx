@@ -28,13 +28,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`flex flex-col justify-between min-h-screen bg-gradient-to-b from-sky-500 to-purple-600 ${geistSans.variable} ${geistMono.variable} antialiased `}
+        className={`flex flex-col min-h-screen justify-between bg-gradient-to-b from-sky-500 to-purple-600 ${geistSans.variable} ${geistMono.variable} antialiased `}
       >
         <LanguageProvider>
           <Header />
           {children}
         </LanguageProvider>
-        <footer className="text-center p-2">© 2024 Clash Flags </footer>
+        <footer className="text-center text-white p-2">
+          © 2024 Clash Flags{" "}
+        </footer>
       </body>
     </html>
   );

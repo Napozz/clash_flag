@@ -37,11 +37,11 @@ export default function GamePage({
       case "guess":
         return <FlagGame flags={flags} language={language} />;
       case "countries4":
-        return <Flag4 flags={flags} language={language} />;
-      case "flags4":
         return <Country4 flags={flags} language={language} />;
+      case "flags4":
+        return <Flag4 flags={flags} language={language} />;
       default:
-        notFound(); // Affiche une page 404 si l'id ne correspond pas
+        notFound();
     }
   };
 

@@ -20,7 +20,7 @@ export default function FlagMenu() {
             defaultValue={difficulty}
             onValueChange={(e) => setDifficulty(e)}
           >
-            <SelectTrigger className="w-36">
+            <SelectTrigger className="w-36 bg-white ">
               <SelectValue placeholder="Difficulty" />
             </SelectTrigger>
             <SelectContent>
@@ -32,21 +32,21 @@ export default function FlagMenu() {
           </Select>
         </div>
         <ul className="m-2 text-center">
-          <li className="bg-blue-500 text-white p-4 rounded-lg shadow-md hover:bg-blue-600 transition duration-300 w-64 m-2">
-            <Link href={`/game/guess?difficulty=${difficulty}`}>
+          <Link href={`/game/guess?difficulty=${difficulty}`}>
+            <li className="bg-sky-500 text-white p-4 rounded-lg shadow-md hover:bg-sky-600 transition duration-300 w-64 m-2">
               Guess the flag
-            </Link>
-          </li>
-          <li className="bg-green-500 text-white p-4 rounded-lg shadow-md hover:bg-green-600 transition duration-300 w-64 m-2">
-            <Link href={`/game/countries4?difficulty=${difficulty}`}>
+            </li>
+          </Link>
+          <Link href={`/game/countries4?difficulty=${difficulty}`}>
+            <li className="bg-indigo-500 text-white p-4 rounded-lg shadow-md hover:bg-indigo-600 transition duration-300 w-64 m-2">
               One flag Four countries
-            </Link>
-          </li>
-          <li className="bg-violet-500 text-white p-4 rounded-lg shadow-md hover:bg-green-600 transition duration-300 w-64 m-2">
-            <Link href={`/game/flags4?difficulty=${difficulty}`}>
+            </li>
+          </Link>
+          <Link href={`/game/flags4?difficulty=${difficulty}`}>
+            <li className="bg-purple-500 text-white p-4 rounded-lg shadow-md hover:bg-purple-600 transition duration-300 w-64 m-2">
               One country four flags
-            </Link>
-          </li>
+            </li>
+          </Link>
         </ul>
       </div>
     </div>

@@ -6,6 +6,7 @@ import useIsClient from "../hooks/isClientHook";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { normalizeString } from "@/lib/utils";
+import ScoreGame from "./ScoreGame";
 
 function FlagGame({ flags, language }: FlagGameProps) {
   const [currentFlagIndex, setCurrentFlagIndex] = useState<number>(() =>
@@ -71,16 +72,7 @@ function FlagGame({ flags, language }: FlagGameProps) {
           <Button onClick={handleGuess} type="submit" className="bg-blue-500">
             Guess
           </Button>
-          <div className="mt-4 flex space-x-4">
-            <div className="flex items-center space-x-2">
-              <span className="text-lg font-semibold">Lives:</span>
-              <span className="text-lg font-bold text-red-500">{lives}</span>
-            </div>
-            <div className="flex items-center space-x-2">
-              <span className="text-lg font-semibold">Score:</span>
-              <span className="text-lg font-bold text-green-500">{score}</span>
-            </div>
-          </div>
+          <ScoreGame lives={lives} score={score} />
         </>
       )}
     </div>
